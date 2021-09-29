@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The best Instagram bot
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Inspro is an Instagram bot powered by A.I. that helps you get more Instagram followers, likes, and engagement. Get started in seconds!
     actions:
       - label: Try for free
         url: /pricing
