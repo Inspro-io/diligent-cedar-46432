@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Trusted by 5000 marketers from:
+    title: Trusted by 5000 marketers from
     align: center
     grid_items:
       - image: images/logo-1.svg
