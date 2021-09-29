@@ -35,7 +35,7 @@ sections:
       - image: images/medium.svg
         image_alt: Slack
         image_align: center
-      - image: images/medium.svg
+      - image: images/combinator.svg
         image_alt: Slack
         image_align: center
     grid_cols: three
