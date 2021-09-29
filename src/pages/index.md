@@ -22,7 +22,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     content: |
-      # Content
+      #
   - type: grid_section
     title: TRUSTED BY 5000+ MARKETERS FROM
     align: center
