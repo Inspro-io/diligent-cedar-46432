@@ -29,7 +29,7 @@ sections:
       - image: images/indiehacker.svg
         image_alt: Indie Hackers
         image_align: center
-      - image: images/medium.svg
+      - image: images/slack.svg
         image_alt: Medium
         image_align: center
     grid_cols: three
