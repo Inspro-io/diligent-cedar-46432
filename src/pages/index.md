@@ -28,6 +28,7 @@ sections:
         image_alt: Tech Crunch
         image_align: center
         image_width: twenty-five
+        image_has_padding: true
       - image: images/indiehacker.svg
         image_alt: Indie Hackers
         image_align: center
