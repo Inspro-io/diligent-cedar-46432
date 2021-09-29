@@ -38,7 +38,7 @@ sections:
       - image: images/combinator.svg
         image_alt: Slack
         image_align: center
-    grid_cols: three
+    grid_cols: five
     grid_gap_horiz: medium
     grid_gap_vert: medium
     padding_top: small
