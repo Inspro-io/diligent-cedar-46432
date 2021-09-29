@@ -24,7 +24,7 @@ sections:
     align: center
     grid_items:
       - image: images/techcrunch.svg
-        image_alt: Logo 1
+        image_alt: Tech Crunch
         image_align: center
       - image: images/logo-2.svg
         image_alt: Logo 2
