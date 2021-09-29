@@ -30,7 +30,7 @@ sections:
         image_alt: Indie Hackers
         image_align: center
       - image: images/medium.svg
-        image_alt: Logo 3
+        image_alt: Medium
         image_align: center
     grid_cols: three
     grid_gap_horiz: medium
