@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: POWERFUL & EFFORTLESS INSTAGRAM GROWTH
-    subtitle: Gain Active Followers & Boost Your Engagement. No Bots, Spam or Fake Results.
+    subtitle: Gain Active Followers & Boost Your Engagement.\n No Bots, Spam or Fake Results.
     actions:
       - label: Try for free
         url: /pricing
