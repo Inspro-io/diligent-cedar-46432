@@ -27,6 +27,7 @@ sections:
       - image: images/techcrunch.svg
         image_alt: Tech Crunch
         image_align: center
+        image_width: thirty-three
       - image: images/indiehacker.svg
         image_alt: Indie Hackers
         image_align: center
