@@ -9,7 +9,7 @@ sections:
         url: /pricing
         style: primary
     image: null
-    image_alt: Hero section placeholder image
+    image_alt: null
     media_position: bottom
     align: center
     padding_top: large
