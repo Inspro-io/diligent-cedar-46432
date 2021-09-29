@@ -8,7 +8,7 @@
         "title": "Inspro",
         "logo": "images/logo.svg",
         "logo_alt": "Inspro logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
