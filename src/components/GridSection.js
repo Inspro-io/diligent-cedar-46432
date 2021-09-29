@@ -30,7 +30,7 @@ export default class GridSection extends React.Component {
             		<div className="section__subtitle">{_.get(section, 'subtitle', null)}</div>
             		)}
             		{_.get(section, 'title', null) && (
-            		<h2 className="section__title mt-0">{_.get(section, 'title', null)}</h2>
+            		<h4 className="section__title mt-0">{_.get(section, 'title', null)}</h2>
             		)}
             	</div>
             	)}
