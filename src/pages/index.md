@@ -29,7 +29,7 @@ sections:
       - image: images/indiehacker.svg
         image_alt: Indie Hackers
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/medium.svg
         image_alt: Logo 3
         image_align: center
     grid_cols: three
