@@ -30,7 +30,7 @@ sections:
         image_alt: Indie Hackers
         image_align: center
       - image: images/slack.svg
-        image_alt: Medium
+        image_alt: Slack
         image_align: center
     grid_cols: three
     grid_gap_horiz: medium
