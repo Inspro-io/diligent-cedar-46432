@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: TRUSTED BY 5000 MARKETERS FROM
+    title: TRUSTED BY 5000+ MARKETERS FROM
     align: center
     grid_items:
       - image: images/techcrunch.svg
