@@ -38,7 +38,8 @@
             }
         ],
         "has_anncmnt": false,
-        "anncmnt_is_home_only": true
+        "anncmnt_is_home_only": true,
+        "anncmnt_content": "Join our Telegram to get your 50% off right now!\n"
     },
     "footer": {
         "logo": "images/logo.svg",
