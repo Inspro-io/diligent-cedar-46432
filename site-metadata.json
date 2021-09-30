@@ -37,7 +37,8 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "anncmnt_is_home_only": true
     },
     "footer": {
         "logo": "images/logo.svg",
