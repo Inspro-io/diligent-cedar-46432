@@ -12,7 +12,7 @@ sections:
         style: primary
     image: images/events.png
     image_alt: null
-    media_position: right
+    media_position: bottom
     align: center
     padding_top: large
     padding_bottom: small
