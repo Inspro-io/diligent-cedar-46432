@@ -38,7 +38,7 @@ sections:
         image: images/performance.png
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: fourty
       - title: Achieve Your Goals With Your Friends
         content: >-
           Friends are an integral part of our life, a true friend can motivate
