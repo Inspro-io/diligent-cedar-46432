@@ -6,7 +6,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Inspro",
-        "logo": "images/whatshot_white_48dp.svg",
+        "logo": "images/icon_with_name.svg",
         "logo_alt": "Inspro logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
