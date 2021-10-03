@@ -54,7 +54,7 @@ sections:
         image: images/actions.png
         image_alt: Feature 2 placeholder image
         media_position: left
-        media_width: sixty
+        media_width: fourty
       - title: Optimize Your Daily Schedule for Maximum Productivity
         content: >-
           With YourGoal you will be more productive and organized. Overcome
