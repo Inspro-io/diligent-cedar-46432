@@ -12,7 +12,7 @@ sections:
         style: primary
     image: images/breakdown.png
     image_alt: null
-    media_position: bottom
+    media_position: right
     align: center
     padding_top: large
     padding_bottom: small
