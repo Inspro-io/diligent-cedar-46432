@@ -10,7 +10,7 @@ sections:
       - label: Try for free
         url: /pricing
         style: primary
-    image: null
+    image: images/breakdown.png
     image_alt: null
     media_position: bottom
     align: center
