@@ -20,34 +20,6 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-  - type: grid_section
-    title: TRUSTED BY 5000+ MARKETERS FROM
-    align: center
-    grid_items:
-      - image: images/techcrunch.svg
-        image_alt: Tech Crunch
-        image_align: center
-        image_width: twenty-five
-        image_has_padding: false
-      - image: images/indiehacker.svg
-        image_alt: Indie Hackers
-        image_align: center
-      - image: images/slack.svg
-        image_alt: Slack
-        image_align: center
-      - image: images/medium.svg
-        image_alt: Slack
-        image_align: center
-      - image: images/combinator.svg
-        image_alt: Slack
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: large
-    grid_gap_vert: small
-    padding_top: small
-    padding_bottom: medium
-    background_color: none
-    enable_cards: true
   - type: features_section
     title: Why Choose YourGoal?
     features:
