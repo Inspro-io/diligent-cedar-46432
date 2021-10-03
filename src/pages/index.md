@@ -20,7 +20,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    media_width: fifty
+    media_width: fourty
   - type: features_section
     title: Why Choose YourGoal?
     features:
