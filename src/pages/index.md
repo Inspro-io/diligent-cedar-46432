@@ -242,17 +242,7 @@ sections:
       - title: Lee Waxman
         subtitle: Marketing Freelancer from Fiverr
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "> *THE\_CUSTOMER\_SERVICE IS\_GREAT, THE\_APP\_IS\_EVEN\_BETTER.*\n"
         content_align: left
         actions: []
         actions_align: left
