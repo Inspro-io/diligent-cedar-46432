@@ -157,7 +157,7 @@ sections:
     type: grid_section
   - type: features_section
     features:
-      - title: All the Activity Data You Need to Improve Yourself
+      - title: Automated Growth
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
