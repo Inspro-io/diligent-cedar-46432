@@ -89,7 +89,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/hootsuite-0fd275dc.svg
-    grid_cols: four
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: large
     enable_cards: false
