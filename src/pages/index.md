@@ -206,7 +206,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    title: Fast Growth with these Features
+    title: Safe & Fast Grow with our Features
   - type: features_section
     features:
       - title: >-
