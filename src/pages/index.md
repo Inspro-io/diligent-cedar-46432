@@ -218,7 +218,6 @@ sections:
           With **YourGoal** you can list positive task what helps you to create
           good habbits.
         content_align: left
-        image: images/icon-1.svg
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
