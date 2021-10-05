@@ -48,7 +48,7 @@
         "primary_nav_links": [
             {
                 "label": "About",
-                "url": "/about",
+                "url": "/blog",
                 "style": "link"
             },
             {
