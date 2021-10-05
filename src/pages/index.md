@@ -158,9 +158,10 @@ sections:
   - type: features_section
     features:
       - title: Automated Growth
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          Inspro interacts with thousands of Instagram profiles every day, so
+          you gain hundreds of followers. You can automate Liking, Following,
+          Unfollowing, Mass Story Viewing, Poll Replying, without spamming.
         actions:
           - label: Learn More
             url: /thank-you
