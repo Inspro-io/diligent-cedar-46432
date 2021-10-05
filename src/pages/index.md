@@ -213,10 +213,13 @@ sections:
     grid_items:
       - title: "\U0001F3C6 Download Inspro App"
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: >
+          Download Inspro Android Application (*Android 7 and above*) to your
+          device.
+
+          Allow all required permissions.
+
+          et to work!
         content_align: left
         image_alt: Section item 1 icon
         image_position: top
