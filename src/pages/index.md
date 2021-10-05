@@ -234,10 +234,9 @@ sections:
         image_has_padding: true
       - title: "\U0001F9F2 Define Your Audience"
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Add niche-specific hashtags, location and similar profiles to yours.
+          Choose advanced filters too!
         content_align: left
         image_alt: Section item 3 icon
         image_position: top
