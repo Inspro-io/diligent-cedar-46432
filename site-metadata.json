@@ -152,7 +152,7 @@
                 "label": "Inspro Facebook",
                 "url": "https://www.facebook.com/InsproGrowth",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "facebook",
                 "icon_position": "right",
                 "new_window": false,
