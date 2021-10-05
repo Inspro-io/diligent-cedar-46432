@@ -207,6 +207,7 @@ sections:
     align: center
     background_color: none
     title: Safe & Fast Grow with our Features
+    has_border: true
   - type: grid_section
     title: How it works
     grid_items:
