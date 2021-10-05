@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: "Safe & Free Instagram Bot\_ \U0001F680"
+    title: "The Best Safe & Free Instagram Bot\_ \U0001F680"
     subtitle: >-
       Inspro is an Advanced Instagram bot that helps you get more Instagram
       followers, likes, and engagement. Get started in minutes!
