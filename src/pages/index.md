@@ -336,7 +336,7 @@ sections:
     content: Start achieving your goals today!
     actions:
       - label: Try for free
-        url: /thank-you
+        url: /pricing
         style: primary
     actions_width: fourty
     align: center
