@@ -213,7 +213,7 @@ sections:
         subtitle: Treepo Marketplace CMO
         title_align: left
         content: >
-          > ***INSPRO **ROCKS YOUR GROWTH & REVEALS TONS OF STRATEGIES IN A FEW
+          > ***INSPRO** ROCKS YOUR GROWTH & REVEALS TONS OF STRATEGIES IN A FEW
           CLICKS!*
         content_align: left
         actions: []
