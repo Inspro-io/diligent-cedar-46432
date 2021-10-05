@@ -157,7 +157,7 @@ sections:
     type: grid_section
   - type: features_section
     features:
-      - title: Automated Growth
+      - title: "\U0001F680Automated Growth"
         content: >
           Inspro interacts with thousands of Instagram profiles every day, so
           you gain hundreds of followers. You can automate Liking, Following,
