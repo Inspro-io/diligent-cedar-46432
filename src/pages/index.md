@@ -214,10 +214,10 @@ sections:
       - title: "\U0001F3C6 Download Inspro App"
         title_align: left
         content: >
-          Download Inspro Android Application (*Android 7 and above*) to your
-          device.
+          Download **Inspro Android Application** (*Android 7 and above*) to
+          your device.
 
-          Allow all required permissions.
+          Allow all required **permissions**.
 
           et to work!
         content_align: left
