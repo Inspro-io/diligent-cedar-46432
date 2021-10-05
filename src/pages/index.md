@@ -275,7 +275,7 @@ sections:
         media_width: fourty
     feature_padding_vert: small
     background_color: secondary
-    has_border: true
+    has_border: false
   - actions: []
     grid_items:
       - title: Amit Bitan
