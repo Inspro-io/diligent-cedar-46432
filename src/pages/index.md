@@ -23,8 +23,7 @@ sections:
   - title: 'TRUSTED BY 1,000+ MARKETERS FROM:'
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
