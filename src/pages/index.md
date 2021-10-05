@@ -240,7 +240,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Lee Waxman
-        subtitle: lorem-ipsum
+        subtitle: Marketing Freelancer from Fiverr
         title_align: left
         content: >-
           ## Lorem ipsum
