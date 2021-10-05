@@ -138,7 +138,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
-        image_align: left
+        image_align: center
         image_has_padding: false
         image: images/hootsuite-0fd275dc.svg
     grid_cols: three
