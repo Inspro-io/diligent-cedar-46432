@@ -243,6 +243,20 @@ sections:
     align: center
     background_color: none
     title: How It works
+  - type: features_section
+    features:
+      - title: >-
+          “I love how there is no need for proxy because the app runs directly
+          on your own smartphone. This makes the service way cheaper.”
+        subtitle: 'Ursula Gurnmeister, Freelance Marketing Manager'
+        image: images/testimonials.png
+        image_alt: Ursula Gurnmeister photo
+        media_position: left
+        media_width: fourty
+    feature_padding_vert: small
+    background_color: secondary
+    has_border: false
+    title: Loved by thousands
   - actions: []
     grid_items:
       - title: Amit Bitan
@@ -302,20 +316,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: features_section
-    features:
-      - title: >-
-          “I love how there is no need for proxy because the app runs directly
-          on your own smartphone. This makes the service way cheaper.”
-        subtitle: 'Ursula Gurnmeister, Freelance Marketing Manager'
-        image: images/testimonials.png
-        image_alt: Ursula Gurnmeister photo
-        media_position: left
-        media_width: fourty
-    feature_padding_vert: small
-    background_color: secondary
-    has_border: false
-    title: Loved by thousands
   - type: cta_section
     title: Ready to get started?
     content: Start achieving your goals today!
