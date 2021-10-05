@@ -113,15 +113,6 @@
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "YouTube",
                 "url": "https://www.youtube.com/channel/UCyipxLQjqVK3A2k1UUvw4UQ/videos",
                 "style": "link",
