@@ -212,17 +212,9 @@ sections:
       - title: Amit Bitan
         subtitle: Treepo Marketplace CMO
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          > *EKTORA ROCKS YOUR GROWTH & REVEALS TONS OF STRATEGIES IN A FEW
+          CLICKS!*
         content_align: left
         actions: []
         actions_align: left
