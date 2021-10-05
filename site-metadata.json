@@ -47,7 +47,7 @@
         "primary_nav_title": "Service",
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "Blog",
                 "url": "/blog",
                 "style": "link"
             },
