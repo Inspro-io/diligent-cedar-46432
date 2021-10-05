@@ -206,7 +206,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    title: "\U0001F3C6 get all these cool Features \U0001F3C6"
+    title: "\U0001F3C6 Our Awesome Features \U0001F3C6"
   - type: features_section
     features:
       - title: >-
