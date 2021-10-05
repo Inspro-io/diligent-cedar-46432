@@ -225,7 +225,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Shawn Tucker
-        subtitle: lorem-ipsum
+        subtitle: Indie Marketer from IndieHacker
         title_align: left
         content: >-
           ## Lorem ipsum
