@@ -211,7 +211,7 @@ sections:
   - type: grid_section
     title: How it works
     grid_items:
-      - title: "\U0001F510 Add Your Profile"
+      - title: "\U0001F3C6 Download Inspro App"
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
