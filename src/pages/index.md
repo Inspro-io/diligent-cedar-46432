@@ -242,7 +242,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    title: How It Works
+    title: How It works
   - type: features_section
     features:
       - title: >-
