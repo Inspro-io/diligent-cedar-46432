@@ -20,8 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     media_width: fourty
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
