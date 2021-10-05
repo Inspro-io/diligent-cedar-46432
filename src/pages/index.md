@@ -49,7 +49,7 @@ sections:
       - title_align: left
         content: |
           ###### ✓ Free Version&#xA;&#xA;
-        content_align: center
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
