@@ -246,8 +246,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
+          “I love how there is no need for proxy because the app runs directly
+          on your own smartphone. This makes the service way cheaper.”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
