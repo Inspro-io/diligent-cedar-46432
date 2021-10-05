@@ -224,9 +224,9 @@ sections:
         image_has_padding: true
       - title: "\U0001F510 Add Your Profile"
         title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
+        content: >
+          Login to your Instagram profile. Your password is only required to
+          establish a connection with Instagram, we don't store it.
         content_align: left
         image_alt: Section item 2 icon
         image_position: top
