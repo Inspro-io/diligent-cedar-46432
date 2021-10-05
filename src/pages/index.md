@@ -218,7 +218,7 @@ sections:
         media_position: left
         media_width: fourty
     feature_padding_vert: small
-    background_color: none
+    background_color: primary
   - type: grid_section
     title: How it works
     grid_items:
