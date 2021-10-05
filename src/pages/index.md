@@ -190,59 +190,6 @@ sections:
     background_color: none
     title: Safe & Fast Growth with our Features
     has_border: true
-  - type: grid_section
-    grid_items:
-      - title: "\U0001F3C6 Download Inspro App"
-        title_align: left
-        content: >
-          Download **Inspro Android Application** (*Android 7 and above*) to
-          your device.
-
-          Allow all required **permissions**.
-
-          Get to work!
-        content_align: left
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: "\U0001F510 Add Your Profile"
-        title_align: left
-        content: >
-          Login to your Instagram profile. Your password is only required to
-          establish a connection with Instagram, we don't store it.
-        content_align: left
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: "\U0001F9F2 Define Your Audience"
-        title_align: left
-        content: >
-          Add niche-specific hashtags, location and similar profiles to yours.
-          Choose advanced filters too!
-        content_align: left
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: "\U0001F308 Track Your Results"
-        title_align: left
-        content: >
-          Watch your Instagram profile grow with likes, story views, profile
-          visits, and real followers.
-        content_align: left
-        image_alt: Section item 4 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: true
-    align: center
-    background_color: none
-    title: How It works
   - type: features_section
     features:
       - title: >-
@@ -316,6 +263,59 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: grid_section
+    grid_items:
+      - title: "\U0001F3C6 Download Inspro App"
+        title_align: left
+        content: >
+          Download **Inspro Android Application** (*Android 7 and above*) to
+          your device.
+
+          Allow all required **permissions**.
+
+          Get to work!
+        content_align: left
+        image_alt: Section item 1 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: "\U0001F510 Add Your Profile"
+        title_align: left
+        content: >
+          Login to your Instagram profile. Your password is only required to
+          establish a connection with Instagram, we don't store it.
+        content_align: left
+        image_alt: Section item 2 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: "\U0001F9F2 Define Your Audience"
+        title_align: left
+        content: >
+          Add niche-specific hashtags, location and similar profiles to yours.
+          Choose advanced filters too!
+        content_align: left
+        image_alt: Section item 3 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: "\U0001F308 Track Your Results"
+        title_align: left
+        content: >
+          Watch your Instagram profile grow with likes, story views, profile
+          visits, and real followers.
+        content_align: left
+        image_alt: Section item 4 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    enable_cards: true
+    align: center
+    background_color: none
+    title: How It works
   - type: cta_section
     title: Ready to get started?
     content: Start achieving your goals today!
