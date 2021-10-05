@@ -227,17 +227,11 @@ sections:
       - title: Shawn Tucker
         subtitle: Indie Marketer from IndieHacker
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > *WE REALIZED PRETTY QUICKLY THAT WE COULD NOT GET BLOCKED USING
+          EKTORA.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          > *
         content_align: left
         actions: []
         actions_align: left
