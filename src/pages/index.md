@@ -207,8 +207,7 @@ sections:
     align: center
     background_color: none
     title: Safe & Fast Grow with our Features
-  - title: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
