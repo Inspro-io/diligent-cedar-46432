@@ -190,8 +190,7 @@ sections:
     background_color: none
     title: Safe & Fast Growth with our Features
     has_border: true
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
