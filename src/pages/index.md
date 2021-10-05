@@ -207,6 +207,62 @@ sections:
     align: center
     background_color: none
     title: Safe & Fast Grow with our Features
+  - type: grid_section
+    title: How it works
+    grid_items:
+      - title: What to Do
+        title_align: left
+        content: >-
+          Goals take time, hard work, perseverance and commitment to achieve it.
+          With **YourGoal** you can list positive task what helps you to create
+          good habbits.
+        content_align: left
+        image: images/icon-1.svg
+        image_alt: Section item 1 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: What not to do
+        title_align: left
+        content: >-
+          Quit bad habits. Track any bad actions with YourGoal that sabotage
+          your productivity and goal achievement.
+        content_align: left
+        image: images/icon-2.svg
+        image_alt: Section item 2 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: Activity streak
+        title_align: left
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        content_align: left
+        image: images/icon-3.svg
+        image_alt: Section item 3 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: Your Progress
+        title_align: left
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        content_align: left
+        image: images/icon-4.svg
+        image_alt: Section item 4 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    enable_cards: true
+    align: center
+    background_color: none
   - actions: []
     grid_items:
       - title: Amit Bitan
@@ -266,62 +322,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: grid_section
-    title: How it works
-    grid_items:
-      - title: What to Do
-        title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
-        content_align: left
-        image: images/icon-1.svg
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: What not to do
-        title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
-        content_align: left
-        image: images/icon-2.svg
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Activity streak
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        image: images/icon-3.svg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Your Progress
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        image: images/icon-4.svg
-        image_alt: Section item 4 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: true
-    align: center
-    background_color: none
   - type: features_section
     features:
       - title: >-
