@@ -159,9 +159,9 @@ sections:
     features:
       - title: "\U0001F680Automated Growth"
         content: >
-          Inspro interacts with thousands of Instagram profiles every day, so
-          you gain hundreds of followers. You can automate Liking, Following,
-          Unfollowing, Mass Story Viewing, Poll Replying, without spamming.
+          **Inspro **interacts with thousands of Instagram profiles every day,
+          so you gain hundreds of followers. You can automate Liking, Following,
+          Unfollowing, Mass Story Viewing and more without spamming.
         actions: []
         image: images/feature-3 (2).webp
         image_alt: Feature 1 placeholder image
