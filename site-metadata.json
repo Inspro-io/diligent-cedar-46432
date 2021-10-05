@@ -52,13 +52,13 @@
                 "style": "link"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "Style Guide",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "FAQ",
+                "url": "/faq",
                 "style": "link"
             }
         ],
