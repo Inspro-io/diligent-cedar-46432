@@ -42,7 +42,19 @@
         "anncmnt_content": "Join our Telegram to get your 50% off right now!🚀\n\n",
         "anncmnt_align": "center",
         "anncmnt_has_close": true,
-        "anncmnt_id": "discount"
+        "anncmnt_id": "discount",
+        "primary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "footer": {
         "logo": "images/logo.svg",
