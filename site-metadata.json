@@ -46,7 +46,7 @@
         "primary_nav_links": []
     },
     "footer": {
-        "logo": "images/background.svg",
+        "logo": "images/icon_with_name.svg",
         "logo_alt": "YourGoal logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
