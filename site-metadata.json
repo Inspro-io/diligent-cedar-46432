@@ -3,7 +3,7 @@
     "style": "classic",
     "palette": "blue",
     "mode": "dark",
-    "base_font": "sans-serif",
+    "base_font": "serif",
     "header": {
         "title": "Inspro",
         "logo": "images/icon_with_name.svg",
