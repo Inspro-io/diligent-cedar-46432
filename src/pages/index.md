@@ -206,7 +206,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    title: Safe & Fast Grow with our Features
+    title: Safe & Fast Growth with our Features
     has_border: true
   - type: grid_section
     title: How it works
