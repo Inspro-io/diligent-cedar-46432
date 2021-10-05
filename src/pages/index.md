@@ -177,9 +177,9 @@ sections:
         media_position: left
         media_width: sixty
       - title: "\U0001F4C8 Real-Time Stats"
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >
+          Ektora helps you monitor your growth and determine which strategy
+          brings you the most followers and likes.
         actions:
           - label: Learn More
             url: /thank-you
