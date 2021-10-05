@@ -191,7 +191,6 @@ sections:
     title: Safe & Fast Growth with our Features
     has_border: true
   - type: grid_section
-    title: How it works
     grid_items:
       - title: "\U0001F3C6 Download Inspro App"
         title_align: left
