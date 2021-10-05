@@ -162,13 +162,7 @@ sections:
           Inspro interacts with thousands of Instagram profiles every day, so
           you gain hundreds of followers. You can automate Liking, Following,
           Unfollowing, Mass Story Viewing, Poll Replying, without spamming.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-3 (2).webp
         image_alt: Feature 1 placeholder image
         media_position: right
