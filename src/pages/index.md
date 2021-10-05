@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: "POWERFUL & EFFORTLESS INSTAGRAM GROWTH \U0001F680"
     subtitle: >-
-      Gain Active Followers & Boost Your Engagement. No Bots, Spam or Fake
-      Results.
+      KENJI is an Instagram bot powered by A.I. that helps you get more
+      Instagram followers, likes, and engagement. Get started in seconds!
     actions:
       - label: Try for free
         url: /pricing
