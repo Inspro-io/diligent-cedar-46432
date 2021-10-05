@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     media_width: fourty
-  - title: lorem-ipsum
+  - title: 'TRUSTED BY 1,000+ MARKETERS FROM:'
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
