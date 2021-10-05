@@ -206,7 +206,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    title: "\U0001F3C6 Our Awesome Features \U0001F3C6"
+    title: Advanced Growth with out F
   - type: features_section
     features:
       - title: >-
