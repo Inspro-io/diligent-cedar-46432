@@ -167,7 +167,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: Achieve Your Goals With Your Friends
+      - title: "\U0001F3AF Advanced Targeting"
         content: >-
           Friends are an integral part of our life, a true friend can motivate
           you to achieve your goals. With Your Goal, you can set goals with your
