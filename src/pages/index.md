@@ -256,6 +256,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
     has_border: false
+    title: Loved by thousands
   - actions: []
     grid_items:
       - title: Amit Bitan
