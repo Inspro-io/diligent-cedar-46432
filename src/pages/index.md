@@ -248,7 +248,7 @@ sections:
       - title: >-
           “I love how there is no need for proxy because the app runs directly
           on your own smartphone. This makes the service way cheaper.”
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
+        subtitle: 'Ursula Gurnmeister, Freelance Marketing Manager'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
         media_position: left
