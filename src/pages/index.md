@@ -36,8 +36,8 @@ sections:
           ###### ✓ 2 Minutes Setup
       - title_align: left
         content: |
-          ###### ✓ Free Version&#xA;&#xA;
-        content_align: center
+          ###### ✓ Real Organic Results
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
@@ -48,8 +48,8 @@ sections:
         image_has_padding: false
       - title_align: left
         content: |
-          ###### ✓ Real Organic Results
-        content_align: left
+          ###### ✓ Free Version&#xA;&#xA;
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
