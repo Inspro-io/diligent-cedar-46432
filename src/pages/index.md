@@ -37,7 +37,7 @@ sections:
       - title_align: left
         content: |
           ###### ✓ Real Organic Results
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
