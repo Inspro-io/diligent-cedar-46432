@@ -69,7 +69,7 @@ sections:
         image: images/slack.svg
     grid_cols: four
     grid_gap_vert: small
-    grid_gap_horiz: small
+    grid_gap_horiz: large
     enable_cards: false
     align: center
     padding_top: medium
