@@ -244,10 +244,9 @@ sections:
         image_has_padding: true
       - title: "\U0001F308 Track Your Results"
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Watch your Instagram profile grow with likes, story views, profile
+          visits, and real followers.
         content_align: left
         image_alt: Section item 4 icon
         image_position: top
