@@ -171,13 +171,7 @@ sections:
         content: >
           Our advanced targeting filters analyze millions of users to interact
           only with the ones that have a high chance of following you back.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-1.webp
         image_alt: Feature 2 placeholder image
         media_position: left
