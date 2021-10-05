@@ -229,7 +229,7 @@ sections:
         title_align: left
         content: >
           > *WE REALIZED PRETTY QUICKLY THAT WE COULD NOT GET BLOCKED USING
-          EKTORA.*
+          **INSPRO**.*
         content_align: left
         actions: []
         actions_align: left
