@@ -50,7 +50,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: |
-          ###### Real Organic Results
+          ###### ✓ Real Organic Results
         content_align: left
         actions: []
         actions_align: left
