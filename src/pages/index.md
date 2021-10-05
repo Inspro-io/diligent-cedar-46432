@@ -209,7 +209,7 @@ sections:
     title: Safe & Fast Grow with our Features
   - actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Amit Turner
         subtitle: lorem-ipsum
         title_align: left
         content: >-
