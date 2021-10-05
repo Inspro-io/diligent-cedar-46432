@@ -228,10 +228,8 @@ sections:
         subtitle: Indie Marketer from IndieHacker
         title_align: left
         content: >
-          > *WE REALIZED PRETTY QUICKLY THAT WE COULD NOT GET BLOCKED USING
+          > WE REALIZED PRETTY QUICKLY THAT WE COULD NOT GET BLOCKED USING
           EKTORA.
-
-          > *
         content_align: left
         actions: []
         actions_align: left
