@@ -22,19 +22,7 @@ sections:
     media_width: fourty
   - title: 'TRUSTED BY 1,000+ MARKETERS FROM:'
     actions: []
-    grid_items:
-      - title_align: left
-        content: |
-          *
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
+    grid_items: []
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
