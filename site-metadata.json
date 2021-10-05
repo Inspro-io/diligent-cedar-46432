@@ -12,6 +12,11 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link"
@@ -19,11 +24,6 @@
             {
                 "label": "FAQ",
                 "url": "/faq",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
                 "style": "link"
             },
             {
