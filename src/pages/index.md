@@ -23,7 +23,7 @@ sections:
   - actions: []
     grid_items:
       - title_align: center
-        content_align: left
+        content_align: right
         actions: []
         actions_align: left
         actions_width: auto
