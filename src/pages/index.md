@@ -202,7 +202,7 @@ sections:
         image: images/feature-4.webp
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: sixty
+        media_width: fifty
     feature_padding_vert: large
     align: center
     background_color: none
