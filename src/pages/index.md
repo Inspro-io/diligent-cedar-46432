@@ -180,13 +180,7 @@ sections:
         content: >
           Ektora helps you monitor your growth and determine which strategy
           brings you the most followers and likes.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-4.webp
         image_alt: Feature 3 placeholder image
         media_position: right
