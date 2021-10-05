@@ -178,7 +178,7 @@ sections:
         media_width: sixty
       - title: "\U0001F4C8 Real-Time Stats"
         content: >
-          Ektora helps you monitor your growth and determine which strategy
+          Inspro helps you monitor your growth and determine which strategy
           brings you the most followers and likes.
         actions: []
         image: images/feature-4.webp
