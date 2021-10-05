@@ -32,6 +32,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        subtitle: ✓ 2 Minutes Setup
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
