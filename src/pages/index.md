@@ -33,7 +33,7 @@ sections:
         image_align: left
         image_has_padding: false
         content: |
-          ✓ 2 Minutes Setup
+          ###### ✓ 2 Minutes Setup
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
