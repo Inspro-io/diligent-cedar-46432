@@ -105,7 +105,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: bottom
         image_width: fifty
-        image_align: left
+        image_align: center
         image_has_padding: false
         image: images/medium.svg
       - title_align: left
