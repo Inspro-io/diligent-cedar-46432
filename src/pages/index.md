@@ -34,8 +34,7 @@ sections:
         image_has_padding: false
         content: |
           ###### ✓ 2 Minutes Setup
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
