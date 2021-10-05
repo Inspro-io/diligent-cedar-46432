@@ -206,7 +206,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    title: Features Rich Growth
+    title: Features
   - type: features_section
     features:
       - title: >-
