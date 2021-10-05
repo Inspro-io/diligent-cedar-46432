@@ -210,7 +210,7 @@ sections:
   - actions: []
     grid_items:
       - title: Amit Bitan
-        subtitle: lorem-ipsum
+        subtitle: Treepo Marketplace CMO
         title_align: left
         content: >-
           ## Lorem ipsum
