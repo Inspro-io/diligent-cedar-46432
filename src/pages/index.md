@@ -46,8 +46,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           ###### ✓ Real Organic Results
         content_align: left
