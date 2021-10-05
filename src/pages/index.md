@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: "POWERFUL & EFFORTLESS INSTAGRAM GROWTH \U0001F680"
     subtitle: >-
-      KENJI is an Instagram bot powered by A.I. that helps you get more
-      Instagram followers, likes, and engagement. Get started in seconds!
+      Inspro is an Advanced Instagram bot that helps you get more Instagram
+      followers, likes, and engagement. Get started in minutes!
     actions:
       - label: Try for free
         url: /pricing
