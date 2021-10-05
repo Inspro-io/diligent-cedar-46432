@@ -207,18 +207,6 @@ sections:
     align: center
     background_color: none
     title: Safe & Fast Grow with our Features
-  - type: features_section
-    features:
-      - title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
-        image: images/testimonials.png
-        image_alt: Ursula Gurnmeister photo
-        media_position: left
-        media_width: fourty
-    feature_padding_vert: small
-    background_color: secondary
   - type: grid_section
     title: How it works
     grid_items:
@@ -275,6 +263,18 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: features_section
+    features:
+      - title: >-
+          “I love how lightweight and easy it is to use. It intuitively builds
+          into my day-to-day rhythm, and the natural flow of my day.”
+        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
+        image: images/testimonials.png
+        image_alt: Ursula Gurnmeister photo
+        media_position: left
+        media_width: fourty
+    feature_padding_vert: small
+    background_color: secondary
   - type: blog_feed_section
     title: What's New
     blog_feed_cols: three
