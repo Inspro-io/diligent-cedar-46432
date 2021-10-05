@@ -148,7 +148,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: none
-    has_border: false
+    has_border: true
     background_color: none
     background_image_opacity: 0
     background_image_size: cover
