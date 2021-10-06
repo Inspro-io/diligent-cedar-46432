@@ -312,15 +312,26 @@ sections:
         content: |-
           ---
 
-          ### $39
+          ### $36 - 3 Months
 
-          per month, billed yearly
+          *$12 per month, billed once.*
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   **5 Active profiles**
+
+
+          *   **Automated Unfollow, Stories & Reactions**
+
+
+          *   **Unlimited hours per day**
+
+
+          *   **Access to Advanced settings**
+
+
+          *   **Blacklist**
+
+
+          *   **Premium Support**
         content_align: left
         actions:
           - label: Start with Business
