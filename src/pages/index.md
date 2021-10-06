@@ -255,7 +255,7 @@ sections:
     has_border: true
   - type: grid_section
     grid_items:
-      - title: Free
+      - title: Freeasd
         subtitle: 'Download and use, no strings attached'
         title_align: left
         content: |-
