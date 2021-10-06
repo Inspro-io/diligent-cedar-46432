@@ -252,6 +252,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
+    has_border: true
   - type: grid_section
     grid_items:
       - title: Personal
