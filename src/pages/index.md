@@ -255,7 +255,7 @@ sections:
     has_border: true
   - type: grid_section
     grid_items:
-      - title: Personal
+      - title: Free
         subtitle: Optional subtitle
         title_align: left
         content: |-
