@@ -9,67 +9,68 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Personal
-        subtitle: Optional subtitle
+      - title: "\U0001F423 Free"
         title_align: left
         content: |-
           ---
 
-          ### $9
+          ### $0 - Life
+          *No credit card required*
 
-          per month, billed yearly
+          *   **1 Active Profile**
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   **Automated Likes, Follows & Comment likes**
+
+          *   **Max. 5 hours operation time per day**
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Try Inspro for FREE
             url: /thank-you
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Premium
-        subtitle: Optional subtitle
+      - title: "\U0001F981 Professional"
         title_align: left
         content: |-
           ---
 
-          ### $19
+          ### $36 - 3 Months
 
-          per month, billed yearly
+          *$12 per month, billed once*
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   **5 Active profiles**
+
+
+          *   **Automated Unfollow, Stories & Reactions**
+
+
+          *   **Unlimited hours per day**
+
+
+          *   **Access to Advanced settings**
+
+
+          *   **Blacklist**
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Start with Professional
             url: /thank-you
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
-        subtitle: Optional subtitle
+      - title: "\U0001F984 Unicorn"
         title_align: left
         content: |-
           ---
 
-          ### $39
+          ### $96 - 1 Year
 
-          per month, billed yearly
+          *$8 per month, billed once*
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   **Premium Support**
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Start with Unicorn
             url: /thank-you
             style: primary
         actions_align: left
@@ -82,6 +83,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    title: Choose your Plan
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
