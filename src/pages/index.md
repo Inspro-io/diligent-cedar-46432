@@ -263,11 +263,11 @@ sections:
 
           ### $0
 
-          No credit card required
+          *No credit card required*
 
-          *   1 Active Profile
-          *   Automated Likes, Follows & Comment likes
-          *   Max. 5 hours operation time per day
+          *   **1 Active Profile**
+          *   **Automated Likes, Follows & Comment likes**
+          *   **Max. 5 hours operation time per day**
         content_align: left
         actions:
           - label: Start with Personal
