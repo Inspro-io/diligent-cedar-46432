@@ -300,9 +300,9 @@ sections:
           *   **Unlimited hours per day**
 
 
-          *   **Access to Advanced settings + Blacklist**
+          *   **Access to Advanced settings**
 
-          *   **Blacklist
+          *   **Blacklist**
 
           *   **Premium Support**
         content_align: left
