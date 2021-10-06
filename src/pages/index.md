@@ -260,7 +260,7 @@ sections:
         content: |-
           ---
 
-          ### $0 - 3 Months
+          ### $0 - Life
           *No credit card required*
 
           *   **1 Active Profile**
