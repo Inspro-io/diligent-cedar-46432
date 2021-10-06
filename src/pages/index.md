@@ -244,7 +244,7 @@ sections:
     background_color: none
     title: How It works
     actions:
-      - label: Get Star
+      - label: Get Started
         url: '#'
         style: primary
         has_icon: false
