@@ -310,7 +310,7 @@ sections:
         content: |-
           ---
 
-          ### $100 - 1 Year
+          ### $79 - 1 Year
 
           *$8 per month, billed once*
 
