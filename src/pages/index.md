@@ -285,25 +285,27 @@ sections:
       - title: "\U0001F981 Professional"
         title_align: left
         content: |
+
+
           ### $36 - 3 months
 
           *$12 per month, billed once.*
 
           *   **5 Active profiles**
 
-          ****
+          ***
 
           *   **Automated Unfollow, Stories & Reactions**
 
-          ****
+          ***
 
           *   **Unlimited hours per day**
 
-          ****
+          ***
 
           *   **Access to Advanced settings + Blacklist**
 
-          ****
+          ***
 
           *   **Premium Support**
         content_align: left
