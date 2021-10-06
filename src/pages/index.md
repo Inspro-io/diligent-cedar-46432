@@ -256,7 +256,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Free
-        subtitle: 'Just download and use for free, no credit card required!'
+        subtitle: Just download and used required!
         title_align: left
         content: |-
           ---
