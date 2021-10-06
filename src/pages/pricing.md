@@ -83,7 +83,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    title: Choose your Plan
+    title: Pricing
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
