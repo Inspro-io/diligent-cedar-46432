@@ -253,7 +253,7 @@ sections:
         new_window: false
         no_follow: false
     has_border: true
-      - type: grid_section
+    - type: grid_section
     grid_items:
       - title: Personal
         subtitle: Optional subtitle
