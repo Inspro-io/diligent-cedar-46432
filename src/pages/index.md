@@ -280,7 +280,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: "\U0001F981 Professional"
-        subtitle: Optional subtitle
         title_align: left
         content: |
           ### $36 - 3 months
