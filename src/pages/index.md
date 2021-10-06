@@ -244,7 +244,7 @@ sections:
     background_color: none
     title: How It works
     actions:
-      - label: 'Start '
+      - label: Start Now
         url: '#'
         style: link
         has_icon: false
