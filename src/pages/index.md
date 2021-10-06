@@ -289,8 +289,6 @@ sections:
 
           ### $36 - 3 Months
 
-          per month, billed yearly
-
           *$12 per month, billed once.*
 
           *   **5 Active profiles**
