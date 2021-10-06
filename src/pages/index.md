@@ -314,7 +314,7 @@ sections:
 
           ### $100 - 1 Year
 
-          *$12 per month, billed once.*
+          *$8 per month, billed once.*
 
           *   **5 Active profiles**
 
