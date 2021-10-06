@@ -282,18 +282,28 @@ sections:
       - title: Premium
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ### $36 - 3 months
 
-          ### $19
+          *$12 per month, billed once.*
 
-          per month, billed yearly
+          *   **5 Active profiles**
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+
+
+          *   **Automated Unfollow, Stories & Reactions**
+
+
+
+          *   **Unlimited hours per day**
+
+
+
+          *   **Access to Advanced settings + Blacklist**
+
+
+
+          *   **Premium Support**
         content_align: left
         actions:
           - label: Start with Premium
