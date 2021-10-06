@@ -285,13 +285,9 @@ sections:
       - title: "\U0001F981 Professional"
         title_align: left
         content: |
-          ###
+          #
 
-
-
-
-
-          $36 - 3 months
+          ### $36 - 3 months
 
           *$12 per month, billed once.*
 
