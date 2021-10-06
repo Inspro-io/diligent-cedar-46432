@@ -302,6 +302,7 @@ sections:
 
           *   **Access to Advanced settings + Blacklist**
 
+          *   **Blacklist
 
           *   **Premium Support**
         content_align: left
