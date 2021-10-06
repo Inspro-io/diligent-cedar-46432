@@ -256,7 +256,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Free
-        subtitle: Just download and used required!
+        subtitle: 'Download and use, no strings attached!'
         title_align: left
         content: |-
           ---
