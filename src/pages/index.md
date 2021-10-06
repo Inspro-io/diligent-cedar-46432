@@ -270,7 +270,7 @@ sections:
           *   **Max. 5 hours operation time per day**
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Try Inspro for FREE
             url: /thank-you
             style: primary
         actions_align: left
@@ -297,7 +297,6 @@ sections:
 
 
           *   **Blacklist**
-
         content_align: left
         actions:
           - label: Start with Premium
