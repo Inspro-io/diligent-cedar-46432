@@ -260,7 +260,7 @@ sections:
         content: |-
           ---
 
-          ### $36 - 3 Months
+          ### $0 - 3 Months
           *No credit card required*
 
           *   **1 Active Profile**
