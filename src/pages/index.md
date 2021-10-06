@@ -316,7 +316,7 @@ sections:
 
           *$8 per month, billed once*
 
-          *   **5 Active profiles**
+          *   **Premium Support**
 
 
           *   **Automated Unfollow, Stories & Reactions**
