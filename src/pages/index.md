@@ -304,7 +304,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Unicorn
+      - title: "\U0001F984 Unicorn"
         title_align: left
         content: |-
           ---
