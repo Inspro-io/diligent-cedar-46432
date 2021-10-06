@@ -265,7 +265,6 @@ sections:
 
           *   **1 Active Profile**
 
-          ***
 
           *   **Automated Likes, Follows & Comment likes**
 
