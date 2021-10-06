@@ -329,7 +329,6 @@ sections:
     has_border: false
     background_color: none
     title: Pick Your Plan
-    subtitle: Mגשגכשלש
   - type: features_section
     features:
       - title: >-
