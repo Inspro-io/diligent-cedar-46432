@@ -265,9 +265,7 @@ sections:
 
           *   **1 Active Profile**
 
-
           *   **Automated Likes, Follows & Comment likes**
-
 
           *   **Max. 5 hours operation time per day**
         content_align: left
