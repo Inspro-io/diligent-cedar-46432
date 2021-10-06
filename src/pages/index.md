@@ -289,19 +289,19 @@ sections:
 
           *   **5 Active profiles**
 
-
+          ****
 
           *   **Automated Unfollow, Stories & Reactions**
 
-
+          ****
 
           *   **Unlimited hours per day**
 
-
+          ****
 
           *   **Access to Advanced settings + Blacklist**
 
-
+          ****
 
           *   **Premium Support**
         content_align: left
