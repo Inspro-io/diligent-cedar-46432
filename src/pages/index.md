@@ -328,6 +328,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    title: Pick Your Plan
   - type: features_section
     features:
       - title: >-
