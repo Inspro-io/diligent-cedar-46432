@@ -315,7 +315,6 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        subtitle: Best Value
       - title: Business
         subtitle: Optional subtitle
         title_align: left
