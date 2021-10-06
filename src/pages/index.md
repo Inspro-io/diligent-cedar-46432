@@ -258,9 +258,9 @@ sections:
       - title: "\U0001F423 Free"
         title_align: left
         content: |
+          ###
 
-
-          # $0
+          ### $0
 
           *No credit card required*
 
