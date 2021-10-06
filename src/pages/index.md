@@ -284,8 +284,8 @@ sections:
         actions_width: full-width
       - title: "\U0001F981 Professional"
         title_align: left
-        content: |
-          \*
+        content: |-
+          ---
 
           ### $39
 
