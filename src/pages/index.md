@@ -285,8 +285,6 @@ sections:
       - title: "\U0001F981 Professional"
         title_align: left
         content: |
-          ###
-
 
 
 
