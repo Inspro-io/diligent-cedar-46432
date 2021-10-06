@@ -299,7 +299,7 @@ sections:
           *   **Blacklist**
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Start with Professional
             url: /thank-you
             style: primary
         actions_align: left
