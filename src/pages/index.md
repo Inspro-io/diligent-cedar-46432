@@ -259,17 +259,15 @@ sections:
         subtitle: 'Download and use, no strings attached'
         title_align: left
         content: |
-          ***
-
           ### $0
 
           *No credit card required*
 
-          *   **1 Active Profile
-              **
-          *   **Automated Likes, Follows & Comment likes
-              **
-          *   **Max. 5 hours operation time per day**
+          *   1 Active Profile
+
+          *   Automated Likes, Follows & Comment likes
+
+          *   Max. 5 hours operation time per day
         content_align: left
         actions:
           - label: Start with Personal
