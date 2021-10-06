@@ -256,7 +256,6 @@ sections:
   - type: grid_section
     grid_items:
       - title: "\U0001F423 Free"
-        subtitle: 'Download and use, no strings attached'
         title_align: left
         content: |
           ### $0
