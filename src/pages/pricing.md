@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pick Your Plan
-    subtitle: Optional hero section subtitle
+    subtitle: 'Join 1,000+ satisfied users now!'
     align: center
     padding_top: large
     padding_bottom: small
