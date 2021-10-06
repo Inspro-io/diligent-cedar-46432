@@ -298,8 +298,6 @@ sections:
 
           *   **Blacklist**
 
-
-          *   **Premium Support**
         content_align: left
         actions:
           - label: Start with Premium
