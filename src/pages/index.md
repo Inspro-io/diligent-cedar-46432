@@ -257,13 +257,10 @@ sections:
     grid_items:
       - title: "\U0001F423 Free"
         title_align: left
-        content: |
+        content: |-
+          ---
 
-
-
-
-          ### $0
-
+          ### $36 - 3 Months
           *No credit card required*
 
           *   **1 Active Profile**
@@ -304,7 +301,7 @@ sections:
 
 
           *   **Blacklist**
-          
+
 
           *   **Premium Support**
         content_align: left
