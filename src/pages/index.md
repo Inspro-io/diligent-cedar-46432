@@ -312,7 +312,7 @@ sections:
         content: |-
           ---
 
-          ### $36 - 3 Months
+          ### $100 - 1 Year
 
           *$12 per month, billed once.*
 
