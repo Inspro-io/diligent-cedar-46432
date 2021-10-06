@@ -258,17 +258,16 @@ sections:
       - title: "\U0001F423 Free"
         subtitle: 'Download and use, no strings attached'
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### $0
 
-          per month, billed yearly
+          No credit card required
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   1 Active Profile.
+          *   Automated Likes, Follows & Comment likes.
+          *   Max. 5 hours operation time per day
         content_align: left
         actions:
           - label: Start with Personal
