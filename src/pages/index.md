@@ -256,7 +256,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Free
-        subtitle: No credit card required
+        subtitle: Just download and use
         title_align: left
         content: |-
           ---
