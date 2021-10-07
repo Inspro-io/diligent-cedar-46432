@@ -423,7 +423,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-    background_image_opacity: 2
+    background_image_opacity: 1.5
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
