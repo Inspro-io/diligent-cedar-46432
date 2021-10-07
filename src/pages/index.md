@@ -428,6 +428,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    background_image: images/background.svg
 seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
