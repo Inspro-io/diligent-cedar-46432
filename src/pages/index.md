@@ -409,7 +409,15 @@ sections:
       ###### Join thousands of brands, influencers, and businesses. Start
       getting more Instagram followers with Inspro. Grow your audience, expand
       your reach, and build your brand - the right way.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     image_alt: lorem-ipsum
     media_position: bottom
     media_width: fifty
