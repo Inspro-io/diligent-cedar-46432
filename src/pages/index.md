@@ -411,7 +411,7 @@ sections:
       your reach, and build your brand - the right way.
     actions:
       - label: Try for free
-        url: '#'
+        url: /pricing
         style: primary
         has_icon: false
         icon: arrow-left
