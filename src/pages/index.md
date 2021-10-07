@@ -407,7 +407,7 @@ sections:
     subtitle: Let's get you started
     content: >
       ###### Join thousands of brands, influencers, and businesses. Start
-      getting more Instagram followers with Ektora. Grow your audience, expand
+      getting more Instagram followers with Inspro. Grow your audience, expand
       your reach, and build your brand - the right way.
     actions: []
     image_alt: lorem-ipsum
