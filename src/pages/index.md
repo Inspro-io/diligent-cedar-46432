@@ -405,7 +405,7 @@ sections:
     title: What we offer
   - actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content: |
           # **START GROWING TODAY**
         content_align: left
