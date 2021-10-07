@@ -411,7 +411,7 @@ sections:
     enable_cards: false
     align: center
     padding_top: large
-    padding_bottom: medium
+    padding_bottom: large
     has_border: true
     background_color: secondary
     background_image_opacity: 0.5
