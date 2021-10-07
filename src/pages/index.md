@@ -404,7 +404,7 @@ sections:
     background_color: none
     title: What we offer
   - title: START GROWING TODAY
-    subtitle: Let's get you started
+    subtitle: "\U0001F3C6 Let's get you started \U0001F3C6"
     content: >
       ###### Join thousands of brands, influencers, and businesses. Start
       getting more Instagram followers with Inspro. Grow your audience, expand
