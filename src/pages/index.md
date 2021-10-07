@@ -403,7 +403,7 @@ sections:
     has_border: false
     background_color: none
     title: What we offer
-  - title: lorem-ipsum
+  - title: Lets get you started!
     content: >-
       ## Lorem ipsum
 
