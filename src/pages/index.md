@@ -420,7 +420,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     background_image: images/background.svg
-  - title: lorem-ipsum
+  - title: Lets get you started
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
