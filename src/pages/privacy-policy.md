@@ -21,12 +21,9 @@ seo:
       value: This is the privacy policy page
 template: page
 ---
-
 PRIVACY NOTICE
 
 More specifically, we may need to process your data or share your personal information in the following situations:
-
-
 
 Last updated May 29, 2021
 
@@ -41,17 +38,41 @@ This privacy notice applies to all information collected through our Services (w
 TABLE OF CONTENTS
 
 [1. WHAT INFORMATION DO WE COLLECT?](https://inspro.app/privacy#infocollect)
+
+
 [2. HOW DO WE USE YOUR INFORMATION?](https://inspro.app/privacy#infouse)
+
+
 [3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?](https://inspro.app/privacy#infoshare)
+
+
 [4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](https://inspro.app/privacy#intltransfers)
+
+
 [5. HOW LONG DO WE KEEP YOUR INFORMATION?](https://inspro.app/privacy#inforetain)
+
+
 [6. HOW DO WE KEEP YOUR INFORMATION SAFE?](https://inspro.app/privacy#infosafe)
+
+
 [7. WHAT ARE YOUR PRIVACY RIGHTS?](https://inspro.app/privacy#privacyrights)
+
+
 [8. CONTROLS FOR DO-NOT-TRACK FEATURES](https://inspro.app/privacy#DNT)
+
+
 [9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](https://inspro.app/privacy#caresidents)
+
+
 [10. DO WE MAKE UPDATES TO THIS NOTICE?](https://inspro.app/privacy#policyupdates)
+
+
 [11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](https://inspro.app/privacy#contact)
+
+
 [12. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?](https://inspro.app/privacy#contact)
+
+
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -63,8 +84,6 @@ We automatically collect certain information when you visit, use or navigate the
 
 **The information we collect includes:**
 
-
-
 *   ○Log and Usage Data. Log and usage data is service-related, diagnostic, usage and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps') and hardware settings).
 
 Information collected through our App
@@ -73,12 +92,9 @@ In Short: We collect information regarding your mobile device, push notification
 
 **If you use our App, we also collect the following information:**
 
-
-
 *   ○Mobile Device Data. We automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our App, we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID and information about the features of our App you accessed.
 
 *   ○Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
-
 
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
@@ -89,8 +105,6 @@ In Short: We process your information for purposes based on legitimate business 
 We use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
 
 **We use the information we collect or receive:**
-
-
 
 *   ○Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.
 
@@ -111,8 +125,6 @@ We use personal information collected via our Services for a variety of business
 In Short: We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
 **We may process or share your data that we hold based on the following legal basis:**
-
-
 
 *   ○Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.
 
