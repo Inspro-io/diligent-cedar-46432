@@ -405,7 +405,7 @@ sections:
     title: What we offer
   - title: Lets get you started!
     content: |
-      ## **START GROWING TODAY**
+      ### **START GROWING TODAY**
     actions: []
     actions_position: bottom
     actions_width: fourty
