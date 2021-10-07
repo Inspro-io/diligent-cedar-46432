@@ -408,7 +408,7 @@ sections:
       - title_align: left
         content: |
           # **START GROWING TODAY**
-        content_align: center
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
