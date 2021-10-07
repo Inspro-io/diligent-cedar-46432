@@ -404,7 +404,7 @@ sections:
     background_color: none
     title: What we offer
   - title: START GROWING TODAY
-    subtitle: lorem-ipsum
+    subtitle: Let's get you started
     content: >-
       ## Lorem ipsum
 
