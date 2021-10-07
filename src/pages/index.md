@@ -402,7 +402,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    title: Choose your Plan
+    title: What we offer
 seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
