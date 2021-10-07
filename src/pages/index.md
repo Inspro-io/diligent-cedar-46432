@@ -422,7 +422,7 @@ sections:
     grid_gap_horiz: small
     enable_cards: false
     align: center
-    padding_top: small
+    padding_top: large
     padding_bottom: none
     has_border: true
     background_color: secondary
