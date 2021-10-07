@@ -405,17 +405,10 @@ sections:
     title: What we offer
   - title: START GROWING TODAY
     subtitle: Let's get you started
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      ###### Join thousands of brands, influencers, and businesses. Start
+      getting more Instagram followers with Ektora. Grow your audience, expand
+      your reach, and build your brand - the right way.
     actions: []
     image_alt: lorem-ipsum
     media_position: bottom
