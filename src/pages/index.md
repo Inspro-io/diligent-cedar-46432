@@ -421,7 +421,7 @@ sections:
     type: cta_section
     background_image: images/background.svg
   - title: Let's get you started
-    subtitle: Start g
+    subtitle: 'Start growing '
     content: >-
       ## Lorem ipsum
 
