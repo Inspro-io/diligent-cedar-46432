@@ -403,23 +403,6 @@ sections:
     has_border: false
     background_color: none
     title: What we offer
-  - title: Lets get you started!
-    content: |
-      #### START GROWING TODAY
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: secondary
-    background_image_opacity: 1.5
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
-    background_image: images/background.svg
   - title: Let's get you started
     subtitle: Start growing today
     content: >-
