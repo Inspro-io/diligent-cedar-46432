@@ -414,7 +414,7 @@ sections:
     media_position: bottom
     media_width: fifty
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
     has_border: false
     background_color: secondary
