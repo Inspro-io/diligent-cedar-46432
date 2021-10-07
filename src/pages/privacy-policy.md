@@ -39,40 +39,27 @@ TABLE OF CONTENTS
 
 [1. WHAT INFORMATION DO WE COLLECT?](https://inspro.app/privacy#infocollect)
 
-
 [2. HOW DO WE USE YOUR INFORMATION?](https://inspro.app/privacy#infouse)
-
 
 [3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?](https://inspro.app/privacy#infoshare)
 
-
 [4. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](https://inspro.app/privacy#intltransfers)
-
 
 [5. HOW LONG DO WE KEEP YOUR INFORMATION?](https://inspro.app/privacy#inforetain)
 
-
 [6. HOW DO WE KEEP YOUR INFORMATION SAFE?](https://inspro.app/privacy#infosafe)
-
 
 [7. WHAT ARE YOUR PRIVACY RIGHTS?](https://inspro.app/privacy#privacyrights)
 
-
 [8. CONTROLS FOR DO-NOT-TRACK FEATURES](https://inspro.app/privacy#DNT)
-
 
 [9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](https://inspro.app/privacy#caresidents)
 
-
 [10. DO WE MAKE UPDATES TO THIS NOTICE?](https://inspro.app/privacy#policyupdates)
-
 
 [11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](https://inspro.app/privacy#contact)
 
-
 [12. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?](https://inspro.app/privacy#contact)
-
-
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -84,7 +71,7 @@ We automatically collect certain information when you visit, use or navigate the
 
 **The information we collect includes:**
 
-*   ○Log and Usage Data. Log and usage data is service-related, diagnostic, usage and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps') and hardware settings).
+*   Log and Usage Data. Log and usage data is service-related, diagnostic, usage and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps') and hardware settings).
 
 Information collected through our App
 
@@ -92,9 +79,9 @@ In Short: We collect information regarding your mobile device, push notification
 
 **If you use our App, we also collect the following information:**
 
-*   ○Mobile Device Data. We automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our App, we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID and information about the features of our App you accessed.
+*   Mobile Device Data. We automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our App, we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID and information about the features of our App you accessed.
 
-*   ○Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
+*   Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
 
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
@@ -106,19 +93,19 @@ We use personal information collected via our Services for a variety of business
 
 **We use the information we collect or receive:**
 
-*   ○Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.
+*   Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.
 
-*   ○Administer prize draws and competitions. We may use your information to administer prize draws and competitions when you elect to participate in our competitions.
+*   Administer prize draws and competitions. We may use your information to administer prize draws and competitions when you elect to participate in our competitions.
 
-*   ○To deliver and facilitate delivery of services to the user. We may use your information to provide you with the requested service.
+*   To deliver and facilitate delivery of services to the user. We may use your information to provide you with the requested service.
 
-*   ○To respond to user inquiries/offer support to users. We may use your information to respond to your inquiries and solve any potential issues you might have with the use of our Services.
+*   To respond to user inquiries/offer support to users. We may use your information to respond to your inquiries and solve any potential issues you might have with the use of our Services.
 
-*   ○To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our Services, subscribing to marketing or otherwise contacting us, we will collect personal information from you. You can opt-out of our marketing emails at any time (see the "WHAT ARE YOUR PRIVACY RIGHTS?" below).
+*   To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our Services, subscribing to marketing or otherwise contacting us, we will collect personal information from you. You can opt-out of our marketing emails at any time (see the "WHAT ARE YOUR PRIVACY RIGHTS?" below).
 
-*   ○Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.
+*   Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.
 
-*   ○For other business purposes. We may use your information for other business purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.
+*   For other business purposes. We may use your information for other business purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.
 
 ## 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
@@ -126,17 +113,17 @@ In Short: We only share information with your consent, to comply with laws, to p
 
 **We may process or share your data that we hold based on the following legal basis:**
 
-*   ○Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.
+*   Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.
 
-*   ○Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.
+*   Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.
 
-*   ○Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
+*   Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
 
-*   ○Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+*   Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
 
-*   ○Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+*   Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 
-*   ○Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.
+*   Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.
 
 <!---->
 
@@ -193,35 +180,3 @@ We may update this privacy notice from time to time. The updated version will be
 ## 11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may email us at inspro.app@gmail.com
-
-### App
-
-*   Download
-
-*   Features
-
-*   Changelog
-
-### Resources
-
-*   Knowledge Base
-
-*   Blog
-
-*   Pricing
-
-*   Contact us
-
-### Legal
-
-*   Privacy policy
-
-*   Terms of use
-
-### Social
-
-Copyright © [Inspro](https://inpsro.app/) 2021
-
-Inspro is not affiliated with Instagram™ or Facebook Inc. in any way.
-
-PRIVACY NOTICE
