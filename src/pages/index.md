@@ -403,8 +403,7 @@ sections:
     has_border: false
     background_color: none
     title: What we offer
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
