@@ -253,6 +253,79 @@ sections:
         new_window: false
         no_follow: false
     has_border: true
+  - type: features_section
+    features:
+      - title: >-
+          “I love how there is no need for proxy because the app runs directly
+          on your own smartphone. This makes the service way cheaper.”
+        subtitle: 'Ursula Gurnmeister, Freelance Marketing Manager'
+        image: images/testimonials.png
+        image_alt: Ursula Gurnmeister photo
+        media_position: left
+        media_width: fourty
+    feature_padding_vert: small
+    background_color: secondary
+    has_border: false
+    title: Loved by thousands
+  - actions: []
+    grid_items:
+      - title: Amit Bitan
+        subtitle: Treepo Marketplace CMO
+        title_align: left
+        content: >
+          > *INSPRO ROCKS YOUR GROWTH & REVEALS TONS OF STRATEGIES IN A FEW
+          CLICKS!*
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: Shawn Tucker
+        subtitle: Indie Marketer from IndieHacker
+        title_align: left
+        content: >
+          > *WE REALIZED PRETTY QUICKLY THAT WE COULD NOT GET BLOCKED USING
+          INSPRO.*
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: Lee Waxman
+        subtitle: Marketing Freelancer from Fiverr
+        title_align: left
+        content: "> *THE\_CUSTOMER\_SERVICE IS\_GREAT, THE\_APP\_IS\_EVEN\_BETTER.*\n"
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: true
+    align: center
+    padding_top: none
+    padding_bottom: none
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: grid_section
     grid_items:
       - title: "\U0001F423 Free"
@@ -330,79 +403,6 @@ sections:
     has_border: false
     background_color: none
     title: Choose your Plan
-  - type: features_section
-    features:
-      - title: >-
-          “I love how there is no need for proxy because the app runs directly
-          on your own smartphone. This makes the service way cheaper.”
-        subtitle: 'Ursula Gurnmeister, Freelance Marketing Manager'
-        image: images/testimonials.png
-        image_alt: Ursula Gurnmeister photo
-        media_position: left
-        media_width: fourty
-    feature_padding_vert: small
-    background_color: secondary
-    has_border: false
-    title: Loved by thousands
-  - actions: []
-    grid_items:
-      - title: Amit Bitan
-        subtitle: Treepo Marketplace CMO
-        title_align: left
-        content: >
-          > *INSPRO ROCKS YOUR GROWTH & REVEALS TONS OF STRATEGIES IN A FEW
-          CLICKS!*
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title: Shawn Tucker
-        subtitle: Indie Marketer from IndieHacker
-        title_align: left
-        content: >
-          > *WE REALIZED PRETTY QUICKLY THAT WE COULD NOT GET BLOCKED USING
-          INSPRO.*
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title: Lee Waxman
-        subtitle: Marketing Freelancer from Fiverr
-        title_align: left
-        content: "> *THE\_CUSTOMER\_SERVICE IS\_GREAT, THE\_APP\_IS\_EVEN\_BETTER.*\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: true
-    align: center
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
 seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
