@@ -21,12 +21,9 @@ seo:
       value: This is the terms and conditions page
 template: page
 ---
-
 PRIVACY NOTICE
 
 More specifically, we may need to process your data or share your personal information in the following situations:
-
-
 
 Last updated May 29, 2021
 
@@ -63,8 +60,6 @@ We automatically collect certain information when you visit, use or navigate the
 
 **The information we collect includes:**
 
-
-
 *   ○Log and Usage Data. Log and usage data is service-related, diagnostic, usage and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps') and hardware settings).
 
 Information collected through our App
@@ -73,12 +68,9 @@ In Short: We collect information regarding your mobile device, push notification
 
 **If you use our App, we also collect the following information:**
 
-
-
 *   ○Mobile Device Data. We automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our App, we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID and information about the features of our App you accessed.
 
 *   ○Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
-
 
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
@@ -89,8 +81,6 @@ In Short: We process your information for purposes based on legitimate business 
 We use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
 
 **We use the information we collect or receive:**
-
-
 
 *   ○Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.
 
@@ -111,8 +101,6 @@ We use personal information collected via our Services for a variety of business
 In Short: We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
 **We may process or share your data that we hold based on the following legal basis:**
-
-
 
 *   ○Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.
 
@@ -181,35 +169,3 @@ We may update this privacy notice from time to time. The updated version will be
 ## 11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may email us at inspro.app@gmail.com
-
-### App
-
-*   Download
-
-*   Features
-
-*   Changelog
-
-### Resources
-
-*   Knowledge Base
-
-*   Blog
-
-*   Pricing
-
-*   Contact us
-
-### Legal
-
-*   Privacy policy
-
-*   Terms of use
-
-### Social
-
-Copyright © [Inspro](https://inpsro.app/) 2021
-
-Inspro is not affiliated with Instagram™ or Facebook Inc. in any way.
-
-PRIVACY NOTICE
