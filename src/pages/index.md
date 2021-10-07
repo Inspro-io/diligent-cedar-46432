@@ -410,7 +410,7 @@ sections:
       getting more Instagram followers with Inspro. Grow your audience, expand
       your reach, and build your brand - the right way.
     actions:
-      - label: lorem-ipsum
+      - label: Try for free
         url: '#'
         style: primary
         has_icon: false
