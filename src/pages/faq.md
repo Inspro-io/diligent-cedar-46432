@@ -22,7 +22,7 @@ sections:
           after you have seen that we really do work, you would like to join us
           and unlock much more powerful capabilities!
 
-      - title: Viverra nam libero justo laoreet sit?
+      - title: Is Inspro safe?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
