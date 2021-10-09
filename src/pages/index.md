@@ -435,7 +435,9 @@ sections:
     background_image: images/background.svg
 seo:
   title: Inspro - Free Instagram Bot
-  description: The preview of the Startup theme
+  description: |-
+    Gain Active Followers & Boost Your Engagement.
+    No Bots, Spam or Fake Results.
   extra:
     - name: 'og:type'
       value: website
