@@ -15,7 +15,7 @@ sections:
           likes, follows and interactions by automating actions you usually have
           to spend a lot of time doing yourself.
 
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Is it really free?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
