@@ -444,7 +444,9 @@ seo:
       value: Inspro - Free Instagram Bot
       keyName: property
     - name: 'og:description'
-      value: Powerful and Effortless
+      value: |-
+        Gain Active Followers & Boost Your Engagement.
+        No Bots, Spam or Fake Results.
       keyName: property
     - name: 'og:image'
       value: images/feature-3 (2)-879bfecc.webp
