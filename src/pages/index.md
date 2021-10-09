@@ -463,7 +463,7 @@ seo:
         Gain Active Followers & Boost Your Engagement.
         No Bots, Spam or Fake Results.
     - name: 'twitter:image'
-      value: images/feature-1.png
+      value: images/feature-3 (2)-94dad2d1.webp
       relativeUrl: true
 template: advanced
 ---
