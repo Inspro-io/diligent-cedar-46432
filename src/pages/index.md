@@ -459,7 +459,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Startup Theme
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: |-
+        Gain Active Followers & Boost Your Engagement.
+        No Bots, Spam or Fake Results.
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
