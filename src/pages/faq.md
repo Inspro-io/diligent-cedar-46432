@@ -31,11 +31,9 @@ sections:
           engaging with real and active users on Instagram. For advanced users
           we allow to modify settings to fit them best.
       - title: Do you support iOS too?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          Sadly, we do not support iOS. We only support Android devices because
+          in Android we are capable of working around the clock.
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
