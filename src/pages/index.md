@@ -447,7 +447,7 @@ seo:
       value: The preview of the Startup theme
       keyName: property
     - name: 'og:image'
-      value: images/feature-1.png
+      value: images/feature-3 (2)-879bfecc.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
