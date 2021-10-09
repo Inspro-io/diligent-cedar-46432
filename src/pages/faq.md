@@ -35,10 +35,13 @@ sections:
           Sadly, we do not support iOS. We only support Android devices because
           in Android we are capable of working around the clock.
       - title: Does Inspro work all the time?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >+
+          We make sure Inspro works while you don't.  Inspro does all the hard
+          work for you. You'll see your followers and engagement grow without
+          having to interact with others manually. We encourage you to keep
+          posting great content to speed up your growth. You might notice that
+          Inspro is often napping. This is done only to mimic a real human.
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
