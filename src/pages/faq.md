@@ -23,12 +23,13 @@ sections:
           and unlock much more powerful capabilities!
 
       - title: Is Inspro safe?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          Definitely! Your account's safety is our top priority. Because Inspro
+          runs directly on your smartphone, there is no need to use proxies!
+          Also, we keep your account safe and operate within Instagram's
+          limitations. We don't deal with fake accounts, meaning we're only
+          engaging with real and active users on Instagram. For advanced users
+          we allow to modify settings to fit them best.
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
