@@ -457,7 +457,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Startup Theme
+      value: Inspro - Free Instagram Bot
     - name: 'twitter:description'
       value: |-
         Gain Active Followers & Boost Your Engagement.
