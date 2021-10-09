@@ -444,7 +444,7 @@ seo:
       value: Inspro - Free Instagram Bot
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: Powerful and Effortless
       keyName: property
     - name: 'og:image'
       value: images/feature-3 (2)-879bfecc.webp
