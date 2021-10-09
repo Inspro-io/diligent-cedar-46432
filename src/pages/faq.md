@@ -34,7 +34,7 @@ sections:
         content: >
           Sadly, we do not support iOS. We only support Android devices because
           in Android we are capable of working around the clock.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+      - title: Does Inspro work all the time?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
