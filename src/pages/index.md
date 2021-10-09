@@ -434,7 +434,7 @@ sections:
     type: hero_section
     background_image: images/background.svg
 seo:
-  title: Stackbit Startup Theme
+  title: Inspro - Free Instagram Bot
   description: The preview of the Startup theme
   extra:
     - name: 'og:type'
