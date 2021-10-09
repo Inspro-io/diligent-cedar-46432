@@ -330,10 +330,11 @@ sections:
     grid_items:
       - title: "\U0001F423 Free"
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $0 - Life
+          ### $0 - Unlimited
+
           *No credit card required*
 
           *   **1 Active Profile**
