@@ -16,10 +16,12 @@ sections:
           to spend a lot of time doing yourself.
 
       - title: Is it really free?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          When we say free - we mean it! You don't need to add your credit card
+          or any other payment details with us to get started. We hope that
+          after you have seen that we really do work, you would like to join us
+          and unlock much more powerful capabilities!
+
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
