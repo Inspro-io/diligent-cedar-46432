@@ -30,7 +30,7 @@ sections:
           limitations. We don't deal with fake accounts, meaning we're only
           engaging with real and active users on Instagram. For advanced users
           we allow to modify settings to fit them best.
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: Do you support iOS too?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
