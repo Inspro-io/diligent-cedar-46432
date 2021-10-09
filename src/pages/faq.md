@@ -10,10 +10,11 @@ sections:
   - type: grid_section
     grid_items:
       - title: What's Inspro
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Inspro is an **Android** app to help your Instagram account get more
+          likes, follows and interactions by automating actions you usually have
+          to spend a lot of time doing yourself.
+
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
