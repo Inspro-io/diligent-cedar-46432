@@ -1,5 +1,5 @@
 ---
-title: My account has been temporAccount Has Been Temporarily Locked
+title: My account has been temporarily locked
 date: '2021-10-11'
 categories:
   - src/data/categories/category-lcdkqficf.json
