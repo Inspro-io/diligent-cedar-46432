@@ -1,6 +1,6 @@
 ---
 title: 'I can''t install the app :('
-subtitle: lorem-ipsum
+subtitle: What to do when you fail to install Inspro on your Android phone.
 date: '2021-10-11'
 categories: []
 tags: []
