@@ -59,6 +59,11 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    - type: hero_section
+    title: Frequently Asked Questions
+    align: center
+    padding_top: large
+    padding_bottom: none
   - type: grid_section
     grid_items:
       - title: What's Inspro
