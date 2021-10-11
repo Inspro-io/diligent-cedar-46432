@@ -3,7 +3,7 @@ title: Support
 sections:
   - title: Guides
     actions:
-      - label: Something is missing? Let us know!
+      - label: Something is not clear? Let us know!
         url: '#'
         style: secondary
         has_icon: false
