@@ -2,7 +2,6 @@
 title: Support
 sections:
   - title: Guides
-    subtitle: Learn how to work with Inspro
     actions: []
     blog_feed_cols: three
     enable_cards: false
