@@ -24,7 +24,7 @@ sections:
     type: blog_feed_section
   - title: Troubleshooting
     actions:
-      - label: Need help? Contact Us!
+      - label: Need help? Contact us!
         url: '#'
         style: secondary
         has_icon: false
