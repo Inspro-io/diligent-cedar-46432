@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'I can''t install the app :('
 subtitle: lorem-ipsum
 date: '2021-10-11'
 categories: []
