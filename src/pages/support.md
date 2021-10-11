@@ -2,7 +2,7 @@
 title: Support
 sections:
   - title: Guides
-    subtitle: lorem-ipsum
+    subtitle: Learn how to
     actions: []
     blog_feed_cols: three
     enable_cards: false
