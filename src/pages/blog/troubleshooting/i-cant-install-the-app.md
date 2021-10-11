@@ -15,9 +15,5 @@ seo:
   extra: []
 template: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+In order to download Apps directly from the browser, and not from google PlayStore - you must allow Allow App Installations from Unknown Sources. 
+This can be set from you phone settings.
