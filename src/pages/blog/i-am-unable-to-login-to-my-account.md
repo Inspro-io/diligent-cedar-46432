@@ -16,5 +16,7 @@ seo:
 template: post
 author: src/data/team/person-2f5nnnb2r.json
 ---
-In order to download Apps directly from the browser, and not from google PlayStore - you must allow Allow App Installations from Unknown Sources. 
-This can be set from you phone settings.
+Email and password should be exactly the same as you use to login on Instagram. Please make sure you typed the correct email/user and password.
+      
+Because Inspro is hosted on your device, its exactly the same as login to the normal Instagram account. moreover, everything is securely passed between you and Instagram and we will never have access to your account or know your username or password.
+
