@@ -1,7 +1,7 @@
 ---
 title: Support
 sections:
-  - title: lorem-ipsum
+  - title: Guides
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
