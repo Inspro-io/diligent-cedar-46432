@@ -4,5 +4,6 @@
     "first_name": "Inspro",
     "last_name": "Tean",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "images/whatshot_white_48dp-fcc8d096.svg"
 }
