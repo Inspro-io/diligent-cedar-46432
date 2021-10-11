@@ -1,5 +1,5 @@
 ---
-title: 'I can''t install the app :('
+title: 'I can''t install the app on my phone :('
 date: '2021-10-11'
 categories:
   - src/data/categories/category-lcdkqficf.json
