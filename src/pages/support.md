@@ -22,7 +22,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-  - title: lorem-ipsum
+  - title: Troubleshooting
     actions: []
     blog_feed_cols: three
     enable_cards: false
