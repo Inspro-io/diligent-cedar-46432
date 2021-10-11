@@ -4,7 +4,7 @@ date: '2021-10-11'
 categories:
   - src/data/categories/category-lcdkqficf.json
 tags: []
-excerpt: What to do when you can't login to your account on Inspro
+excerpt: What do to when your account
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
