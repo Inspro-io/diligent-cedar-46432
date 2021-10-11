@@ -109,7 +109,7 @@ sections:
     background_color: none
 seo:
   title: Support
-  description: This is the faq page
+  description: This is the help-center page
   extra:
     - name: 'og:type'
       value: website
