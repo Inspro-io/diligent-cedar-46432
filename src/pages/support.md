@@ -115,7 +115,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: FAQ
+      value: Help Center
       keyName: property
     - name: 'og:description'
       value: This is the faq page
