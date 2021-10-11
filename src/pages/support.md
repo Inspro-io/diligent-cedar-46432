@@ -118,7 +118,7 @@ seo:
       value: Help Center
       keyName: property
     - name: 'og:description'
-      value: This is the faq page
+      value: This is the help-center page
       keyName: property
     - name: 'twitter:card'
       value: summary
