@@ -59,6 +59,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    category: src/data/categories/category-lcdkqficf.json
   - type: hero_section
     title: Frequently Asked Questions
     align: center
