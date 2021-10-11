@@ -4,7 +4,7 @@ subtitle: What to do when you fail to install Inspro on your Android phone.
 date: '2021-10-11'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: 1 min
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
