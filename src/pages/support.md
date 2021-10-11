@@ -102,7 +102,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    title: F
+    title: FAQ
 seo:
   title: Support
   description: This is the help-center page
