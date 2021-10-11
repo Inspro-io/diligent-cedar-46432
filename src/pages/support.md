@@ -59,7 +59,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-    - type: hero_section
+  - type: hero_section
     title: Frequently Asked Questions
     align: center
     padding_top: large
