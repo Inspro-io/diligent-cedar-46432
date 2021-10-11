@@ -8,7 +8,7 @@ sections:
     show_recent: false
     recent_count: 0
     show_date: false
-    show_categories: true
+    show_categories: false
     show_author: false
     show_excerpt: false
     show_image: true
