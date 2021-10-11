@@ -1,8 +1,7 @@
 ---
 title: Support
 sections:
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
