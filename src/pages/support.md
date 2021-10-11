@@ -108,7 +108,7 @@ sections:
     has_border: false
     background_color: none
 seo:
-  title: FAQ
+  title: Support
   description: This is the faq page
   extra:
     - name: 'og:type'
