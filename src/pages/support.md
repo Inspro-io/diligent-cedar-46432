@@ -23,7 +23,6 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
