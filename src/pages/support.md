@@ -28,7 +28,7 @@ sections:
     enable_cards: false
     show_recent: false
     recent_count: 0
-    show_date: true
+    show_date: false
     show_categories: false
     show_author: true
     show_excerpt: false
