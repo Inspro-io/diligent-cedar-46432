@@ -3,7 +3,7 @@ title: Support
 sections:
   - title: Guides
     actions:
-      - label: lorem-ipsum
+      - label: Something is missing? Let us know!
         url: '#'
         style: secondary
         has_icon: false
