@@ -1,7 +1,8 @@
 ---
 title: 'I can''t install the app :('
 date: '2021-10-11'
-categories: []
+categories:
+  - src/data/categories/category-lcdkqficf.json
 tags: []
 excerpt: What to do when you fail to install Inspro on your Android phone.
 thumb_image_alt: lorem-ipsum
