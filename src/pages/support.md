@@ -125,6 +125,6 @@ seo:
     - name: 'twitter:title'
       value: FAQ
     - name: 'twitter:description'
-      value: This is the faq page
+      value: This is the help-center page
 template: advanced
 ---
