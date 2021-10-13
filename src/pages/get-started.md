@@ -95,7 +95,7 @@ sections:
           needs!
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Plans
             url: '#'
             style: link
             has_icon: false
