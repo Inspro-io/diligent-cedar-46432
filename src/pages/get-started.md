@@ -22,11 +22,7 @@ sections:
         title_align: left
         content: >
           Download **Inspro Android Application** (*Android 7 and above*) to
-          your device.
-
-          Allow all required **permissions**.
-
-          Get to work!
+          your **Android **device.
         content_align: left
         image_alt: Section item 1 icon
         image_position: top
