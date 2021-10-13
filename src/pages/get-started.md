@@ -8,7 +8,7 @@ sections:
     media_width: fifty
     align: center
     padding_top: large
-    padding_bottom: none
+    padding_bottom: medium
     has_border: false
     background_color: none
     background_image_opacity: 0
