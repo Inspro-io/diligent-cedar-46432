@@ -88,7 +88,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Visit Premium plans
+      - title: "\U0001F942 Visit Premium plans"
         subtitle: lorem-ipsum
         title_align: left
         content: >
