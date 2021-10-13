@@ -3,7 +3,7 @@ title: Getting Started
 sections:
   - title: Getting Started
     actions:
-      - label: 'Having trouble? '
+      - label: Having trouble? Contact us!
         url: '#'
         style: link
         has_icon: false
