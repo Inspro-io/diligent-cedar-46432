@@ -46,7 +46,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F9F2 Define Your Audience"
+      - title: "\U0001F9F2 Add your account"
         title_align: left
         content: >
           Add niche-specific hashtags, location and similar profiles to yours.
