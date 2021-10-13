@@ -119,7 +119,7 @@ sections:
     actions:
       - label: Android Authority - How to Install APKs
         url: 'https://www.androidauthority.com/how-to-install-apks-31494/'
-        style: primary
+        style: link
         has_icon: false
         icon: arrow-left
         icon_position: right
