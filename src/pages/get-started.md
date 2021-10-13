@@ -3,7 +3,7 @@ title: Getting Started
 sections:
   - title: Getting Started
     actions:
-      - label: lorem-ipsum
+      - label: 'Having trouble? '
         url: '#'
         style: link
         has_icon: false
