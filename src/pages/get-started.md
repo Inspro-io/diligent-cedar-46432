@@ -20,9 +20,8 @@ sections:
     grid_items:
       - title: "\U0001F4BE Download Inspro APK"
         title_align: left
-        content: >
-          Download **Inspro Android Application** (*Android 7 and above*) to
-          your **android** device.
+        content: |
+          Download **Inspro Android Application** to your **android** device.
         content_align: left
         image_alt: Section item 1 icon
         image_position: top
