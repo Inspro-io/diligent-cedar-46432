@@ -238,17 +238,11 @@ sections:
         image_has_padding: true
       - title: Stay Safe
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          With Inspro you don't have to worry about safety!
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Why? Because we run directly from you smartphone just like your
+          regular Instagram App.
         content_align: left
         actions: []
         actions_align: left
