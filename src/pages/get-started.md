@@ -36,7 +36,7 @@ sections:
             icon_position: right
             new_window: false
             no_follow: false
-      - title: "\U0001F984 Add Your Profile"
+      - title: "\U0001F984 Install the APK"
         title_align: left
         content: >
           Login to your Instagram profile. Your password is only required to
