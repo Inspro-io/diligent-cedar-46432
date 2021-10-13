@@ -2,7 +2,6 @@
 title: Getting Started
 sections:
   - title: Getting Started
-    subtitle: lorem-ipsum
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
