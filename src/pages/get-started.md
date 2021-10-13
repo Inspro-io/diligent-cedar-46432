@@ -117,7 +117,7 @@ sections:
     align: center
     background_color: none
     actions:
-      - label: Android Authori
+      - label: Android Authority - How to Install APKs
         url: /pricing
         style: primary
         has_icon: false
