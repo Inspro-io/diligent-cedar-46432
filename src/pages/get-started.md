@@ -28,6 +28,15 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title: "\U0001F984 Add Your Profile"
         title_align: left
         content: >
