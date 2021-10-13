@@ -261,7 +261,7 @@ sections:
     title: How It works
     actions:
       - label: Get Started for Free
-        url: /pricing
+        url: /get-started
         style: primary
         has_icon: false
         icon: arrow-left
