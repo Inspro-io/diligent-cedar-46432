@@ -236,7 +236,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Stay Safe
+      - title: "\U0001F512 Stay Safe"
         title_align: left
         content: >
           With Inspro you don't have to worry about safety!
