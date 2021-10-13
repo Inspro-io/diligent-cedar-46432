@@ -118,7 +118,7 @@ sections:
     background_color: none
     actions:
       - label: Android Authority - How to Install APKs
-        url: /pricing
+        url: 'https://www.androidauthority.com/how-to-install-apks-31494/'
         style: primary
         has_icon: false
         icon: arrow-left
