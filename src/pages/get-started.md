@@ -39,8 +39,8 @@ sections:
       - title: "\U0001F984 Install the APK"
         title_align: left
         content: >
-          Login to your Instagram profile. Your password is only required to
-          establish a connection with Instagram, we don't store it.
+          Allow your device to *Install from unknown sources *and wait until the
+          APK is installed.
         content_align: left
         image_alt: Section item 2 icon
         image_position: top
