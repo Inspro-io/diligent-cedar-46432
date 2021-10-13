@@ -18,7 +18,7 @@ sections:
     type: hero_section
   - type: grid_section
     grid_items:
-      - title: "\U0001F3C6 Download Inspro App"
+      - title: '1.'
         title_align: left
         content: >
           Download **Inspro Android Application** (*Android 7 and above*) to
