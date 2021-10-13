@@ -28,7 +28,7 @@
             },
             {
                 "label": "Get Started",
-                "url": "/pricing",
+                "url": "/get-started",
                 "style": "primary",
                 "has_icon": false
             }
