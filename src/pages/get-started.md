@@ -89,7 +89,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F942 Visit Premium plans"
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           Go look at our **premium** plans and see if one of them fits your
