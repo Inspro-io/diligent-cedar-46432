@@ -5,7 +5,7 @@ sections:
     actions:
       - label: Having trouble? Contact us!
         url: /contact-us
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
