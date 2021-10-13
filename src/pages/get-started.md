@@ -60,9 +60,12 @@ sections:
         image_has_padding: true
       - title: "\U0001F308 Go throught Inspro"
         title_align: left
-        content: >
-          Watch your Instagram profile grow with likes, story views, profile
-          visits, and real followers.
+        content: |
+          Look at all the features and capabilities of Inspro.
+
+          When you are ready, you can **start** Inspro.
+
+          *The default settings are calibrated to be slow and safe.*
         content_align: left
         image_alt: Section item 4 icon
         image_position: top
