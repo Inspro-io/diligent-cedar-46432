@@ -92,7 +92,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >
-          Go look at our **premium **plans and see if one of them fits your
+          Go look at our **premium** plans and see if one of them fits your
           needs!
         content_align: left
         actions: []
