@@ -126,7 +126,7 @@ sections:
         new_window: false
         no_follow: false
       - label: lorem-ipsum
-        url: '#'
+        url: 'https://www.nextpit.com/android-for-beginners-what-is-an-apk-file'
         style: link
         has_icon: false
         icon: arrow-left
