@@ -428,7 +428,7 @@ sections:
       your reach, and build your brand - the right way.
     actions:
       - label: Try for free
-        url: /pricing
+        url: /get-started
         style: primary
         has_icon: false
         icon: arrow-left
