@@ -58,7 +58,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F308 Track Your Results"
+      - title: "\U0001F308 Go throught Inspro"
         title_align: left
         content: >
           Watch your Instagram profile grow with likes, story views, profile
