@@ -206,7 +206,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F510 Add Your Profile"
+      - title: "\U0001F984 Add Your Profile"
         title_align: left
         content: >
           Login to your Instagram profile. Your password is only required to
