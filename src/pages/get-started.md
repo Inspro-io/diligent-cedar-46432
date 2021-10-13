@@ -117,7 +117,7 @@ sections:
     align: center
     background_color: none
     actions:
-      - label: Get Started for Free
+      - label: Android Authori
         url: /pricing
         style: primary
         has_icon: false
