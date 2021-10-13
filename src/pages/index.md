@@ -8,7 +8,7 @@ sections:
       followers, likes, and engagement. Get started in minutes!
     actions:
       - label: Try for free
-        url: /pricing
+        url: /get-started
         style: primary
     image_alt: null
     media_position: bottom
