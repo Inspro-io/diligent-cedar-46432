@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 sections:
-  - title: lorem-ipsum
+  - title: Getting Started
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
