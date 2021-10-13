@@ -236,7 +236,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: lorem-ipsum
+      - title: Stay Safe
         title_align: left
         content: >-
           ## Lorem ipsum
