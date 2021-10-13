@@ -74,10 +74,11 @@ sections:
       - title: "\U0001F512 Twick and Play"
         title_align: left
         content: >
-          With Inspro you don't have to worry about safety!
+          After you activation, you can **Twick and Play** with the settings as
+          you wish.
 
-          Why? Because we run directly from you smartphone just like your
-          regular Instagram App.
+
+          We encourage you to be careful and make good decisions.
         content_align: left
         actions: []
         actions_align: left
