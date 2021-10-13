@@ -71,7 +71,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F512 Stay Safe"
+      - title: "\U0001F512 Twick and Play"
         title_align: left
         content: >
           With Inspro you don't have to worry about safety!
