@@ -29,7 +29,7 @@ sections:
         image_align: left
         image_has_padding: true
         actions:
-          - label: lorem-ipsum
+          - label: Download APK (Android 7+)
             url: '#'
             style: primary
             has_icon: false
