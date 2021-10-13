@@ -18,7 +18,7 @@ sections:
     type: hero_section
   - type: grid_section
     grid_items:
-      - title: "\U0001F4BE Download Inspro APK to your Android phone"
+      - title: "\U0001F4BE Download Inspro APK"
         title_align: left
         content: >
           Download **Inspro Android Application** (*Android 7 and above*) to
