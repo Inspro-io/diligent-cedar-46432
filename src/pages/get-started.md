@@ -69,7 +69,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    title: How It works
     actions:
       - label: Get Started for Free
         url: /pricing
