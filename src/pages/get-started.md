@@ -96,7 +96,7 @@ sections:
         content_align: left
         actions:
           - label: Plans
-            url: '#'
+            url: /pricing
             style: link
             has_icon: false
             icon: arrow-left
