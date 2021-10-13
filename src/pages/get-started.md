@@ -48,9 +48,11 @@ sections:
         image_has_padding: true
       - title: "\U0001F9F2 Add your account"
         title_align: left
-        content: >
-          Add niche-specific hashtags, location and similar profiles to yours.
-          Choose advanced filters too!
+        content: |
+          Login to one or more of your accounts.
+
+          **We do not store any of your information.** 
+          Inspro is fully located on your device.
         content_align: left
         image_alt: Section item 3 icon
         image_position: top
