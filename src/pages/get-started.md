@@ -4,7 +4,7 @@ sections:
   - title: Getting Started
     actions:
       - label: Having trouble? Contact us!
-        url: '#'
+        url: /contact-us
         style: link
         has_icon: false
         icon: arrow-left
