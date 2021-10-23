@@ -33,7 +33,7 @@ sections:
   - title: Troubleshooting
     actions:
       - label: 'Need help? Contact us :)'
-        url: '#'
+        url: /contact-us
         style: secondary
         has_icon: false
         icon: arrow-left
