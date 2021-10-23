@@ -31,7 +31,7 @@ sections:
         is_required: true
       - input_type: text
         name: Your Email
-        label: lorem-ipsum
+        label: Your Email
         default_value: lorem-ipsum
         options: []
         is_required: false
