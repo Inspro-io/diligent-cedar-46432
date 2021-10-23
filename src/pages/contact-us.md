@@ -40,6 +40,7 @@ sections:
         default_value: lorem-ipsum
         options: []
         is_required: false
+        label: Subject
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
