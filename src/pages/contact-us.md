@@ -39,7 +39,7 @@ sections:
         name: Subject
         default_value: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
         label: Subject
     submit_label: lorem-ipsum
     align_vert: top
