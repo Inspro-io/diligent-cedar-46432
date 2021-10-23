@@ -32,7 +32,7 @@ sections:
       - input_type: text
         name: Email
         label: Your Email
-        default_value: lorem-ipsum
+        default_value: mcawesome@gmail.com
         options: []
         is_required: false
     submit_label: lorem-ipsum
