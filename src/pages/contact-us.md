@@ -2,7 +2,7 @@
 title: Contact Us
 sections:
   - title: Contact Us
-    title_align: left
+    title_align: center
     content: |
       Have any questions? Can not find anything helpful in our Help Center?
       Let us help you!
