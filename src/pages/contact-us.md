@@ -21,7 +21,8 @@ sections:
         name: Name
         label: Tell us your name
         default_value: Dr. McAwesome
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
       - input_type: textarea
         name: Your message
