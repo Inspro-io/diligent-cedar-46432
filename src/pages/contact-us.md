@@ -26,7 +26,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Name
-        default_value: lorem-ipsum
+        default_value: McAwesome
         options: []
         is_required: false
     submit_label: lorem-ipsum
