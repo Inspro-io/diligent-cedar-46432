@@ -2,7 +2,6 @@
 title: Contact Us
 sections:
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
