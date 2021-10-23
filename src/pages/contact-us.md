@@ -3,17 +3,9 @@ title: Contact Us
 sections:
   - title: Contact Us
     title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Have any questions? Can not find anything helpful in our Help Center?
+      Let us help you!
     content_align: left
     form_position: bottom
     form_width: fifty
