@@ -41,7 +41,7 @@ sections:
         default_value: Enter your message here.
         options: []
         is_required: true
-    submit_label: lorem-ipsum
+    submit_label: Send
     align_vert: top
     padding_top: medium
     padding_bottom: medium
