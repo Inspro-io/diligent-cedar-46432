@@ -31,7 +31,7 @@ sections:
         is_required: false
       - input_type: text
         name: Subject
-        default_value: lorem-ipsum
+        default_value: What should I do whe
         options: []
         is_required: true
         label: Subject
