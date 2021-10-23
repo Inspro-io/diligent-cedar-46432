@@ -31,7 +31,7 @@ sections:
         is_required: false
       - input_type: text
         name: Subject
-        default_value: The app is too awesome!
+        default_value: 'What to do '
         options: []
         is_required: true
         label: Subject
