@@ -4,7 +4,7 @@ sections:
   - title: Guides
     actions:
       - label: Something is not clear? Let us know!
-        url: '#'
+        url: /contact-us
         style: secondary
         has_icon: false
         icon: arrow-left
