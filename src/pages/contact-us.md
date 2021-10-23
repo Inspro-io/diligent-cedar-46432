@@ -31,7 +31,7 @@ sections:
         is_required: false
       - input_type: text
         name: Subject
-        default_value: 'What to do '
+        default_value: How do I start?
         options: []
         is_required: true
         label: Subject
