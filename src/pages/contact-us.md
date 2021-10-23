@@ -15,7 +15,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: contact-us
-    form_action: lorem-ipsum
+    form_action: Send
     form_fields:
       - input_type: textarea
         name: Your message
