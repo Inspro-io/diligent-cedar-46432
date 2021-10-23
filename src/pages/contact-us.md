@@ -9,7 +9,7 @@ sections:
       Can not find anything helpful in our Help Center?
 
       Let us help you!
-    content_align: left
+    content_align: center
     form_position: bottom
     form_width: fifty
     form_layout: stacked
