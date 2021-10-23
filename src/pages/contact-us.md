@@ -19,7 +19,7 @@ sections:
     form_fields:
       - input_type: text
         name: Name
-        label: Tell us your name
+        label: Tell us your Name
         default_value: Dr. McAwesome
         options: []
         is_required: true
