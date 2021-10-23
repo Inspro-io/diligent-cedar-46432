@@ -25,7 +25,7 @@ sections:
         is_required: true
       - input_type: text
         name: Name
-        label: What is your Name
+        label: Tell us your Name
         default_value: Dr. McAwesome
         options: []
         is_required: true
