@@ -36,7 +36,7 @@ sections:
         options: []
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: Subject
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
