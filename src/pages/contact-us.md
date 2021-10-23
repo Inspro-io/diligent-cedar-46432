@@ -4,7 +4,10 @@ sections:
   - title: Contact Us
     title_align: center
     content: |
-      Have any questions? Can not find anything helpful in our Help Center?
+      Have any questions? 
+
+      Can not find anything helpful in our Help Center?
+
       Let us help you!
     content_align: left
     form_position: bottom
