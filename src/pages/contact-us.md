@@ -17,7 +17,7 @@ sections:
       - input_type: textarea
         name: Your message
         label: How can we assist?
-        default_value: lorem-ipsum
+        default_value: Enter your message here.
         options: []
         is_required: false
     submit_label: lorem-ipsum
