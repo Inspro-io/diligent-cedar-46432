@@ -29,18 +29,18 @@ sections:
         default_value: mcawesome@gmail.com
         options: []
         is_required: false
-      - input_type: textarea
-        name: Message
-        label: How can we assist?
-        default_value: Enter your message here.
-        options: []
-        is_required: true
       - input_type: text
         name: Subject
         default_value: lorem-ipsum
         options: []
         is_required: true
         label: Subject
+      - input_type: textarea
+        name: Message
+        label: How can we assist?
+        default_value: Enter your message here.
+        options: []
+        is_required: true
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
