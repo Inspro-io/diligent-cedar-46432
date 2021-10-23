@@ -37,7 +37,6 @@ sections:
         is_required: true
       - input_type: text
         name: Subject
-        label: What is your issue?
         default_value: lorem-ipsum
         options: []
         is_required: false
