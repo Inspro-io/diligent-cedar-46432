@@ -17,16 +17,16 @@ sections:
     form_id: contact-us
     form_action: Send
     form_fields:
-      - input_type: textarea
-        name: Your message
-        label: How can we assist?
-        default_value: Enter your message here.
-        options: []
-        is_required: true
       - input_type: text
         name: Name
         label: Tell us your name
         default_value: Dr. McAwesome
+        options: []
+        is_required: true
+      - input_type: textarea
+        name: Your message
+        label: How can we assist?
+        default_value: Enter your message here.
         options: []
         is_required: true
     submit_label: lorem-ipsum
