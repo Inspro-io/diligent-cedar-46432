@@ -19,7 +19,7 @@ sections:
         label: How can we assist?
         default_value: Enter your message here.
         options: []
-        is_required: false
+        is_required: true
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
