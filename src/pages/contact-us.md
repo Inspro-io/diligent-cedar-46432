@@ -24,7 +24,7 @@ sections:
         options: []
         is_required: true
       - input_type: textarea
-        name: Your message
+        name: Message
         label: How can we assist?
         default_value: Enter your message here.
         options: []
