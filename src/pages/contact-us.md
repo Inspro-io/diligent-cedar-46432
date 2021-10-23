@@ -25,7 +25,7 @@ sections:
         is_required: true
       - input_type: text
         name: Email
-        label: Your Email
+        label: Your Email Address
         default_value: mcawesome@gmail.com
         options: []
         is_required: false
