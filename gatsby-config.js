@@ -30,7 +30,7 @@ module.exports = {
             }
         },
         {
-      resolve: `gatsby-plugin-paypal`,
+            resolve: `gatsby-plugin-paypal`,
       options: {
         clientId: `YOUR_CLIENT_ID`,
         currency: `EUR`, // Optional
