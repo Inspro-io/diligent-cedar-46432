@@ -28,6 +28,14 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        }
+        },
+        {
+      resolve: `gatsby-plugin-paypal`,
+      options: {
+        clientId: `YOUR_CLIENT_ID`,
+        currency: `EUR`, // Optional
+        vault: true // Optional
+      }
+    }
     ]
 };
