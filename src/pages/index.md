@@ -401,7 +401,7 @@ sections:
 
           ### $72 - 1 Year
 
-          *$6 per month, billed once (**50% Save**)*
+          *$6 per month, billed once*
 
           *   **Premium Support**
         content_align: left
