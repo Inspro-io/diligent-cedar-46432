@@ -36,6 +36,6 @@ module.exports = {
                 currency: `EUR`, // Optional
                 vault: true // Optional
             }
-    }
+        }
     ]
 };
