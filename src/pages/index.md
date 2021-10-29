@@ -396,12 +396,12 @@ sections:
         actions_width: full-width
       - title: "\U0001F431‍\U0001F464 Ninja"
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $96 - 1 Year
+          ### $72 - 1 Year
 
-          *$8 per month, billed once*
+          *$6 per month, billed once (**50% Save**)*
 
           *   **Premium Support**
         content_align: left
