@@ -50,7 +50,7 @@ export default class GridSection extends React.Component {
             		</div>
             	</div>
             	)}
-            </section>
+            
         );
     }
 }
