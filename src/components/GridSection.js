@@ -49,7 +49,7 @@ export default class GridSection extends React.Component {
             			<SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
             		</div>
             	</div>
-            	)}
+                )}
             </section>
         );
     }
