@@ -70,7 +70,7 @@ sections:
           *   **Premium Support**
         content_align: left
         actions:
-          - label: Start with Unicorn
+          - label: Start with Ninja
             url: /thank-you
             style: primary
         actions_align: left
