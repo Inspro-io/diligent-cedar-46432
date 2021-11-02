@@ -1293,12 +1293,13 @@ models:
         label: Form ID
         description: A unique identifier of the form. Must not contain whitespace
         required: true
-      - type: string
+      - type: model
         name: form_action
         label: Form action
         description: >-
           The path of your custom "success" page, if you want to replace the
           default success message.
+        models: []
       - type: list
         name: form_fields
         label: Form fields
