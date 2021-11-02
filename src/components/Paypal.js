@@ -4,7 +4,7 @@ import _ from 'lodash';
 import {classNames} from '../utils';
 import Action from './Action';
 
-export default class HeaderMenu extends React.Component {
+export default class Paypal extends React.Component {
     render() {
         let page = _.get(this.props, 'page', null);
         let menu = _.get(this.props, 'header_menu', null);
