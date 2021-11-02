@@ -24,7 +24,6 @@ export default class Paypal extends React.Component {
         return actions.order.capture();
     }
 
-
     render() {
         let page = _.get(this.props, 'page', null);
         let menu = _.get(this.props, 'header_menu', null);
