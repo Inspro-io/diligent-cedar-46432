@@ -1737,7 +1737,7 @@ models:
     labelField: title
   paypal:
     type: object
-    label: paypal
+    label: Paypal
     fields:
       - name: Paypal
         type: string
