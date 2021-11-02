@@ -30,7 +30,7 @@ export default class Paypal extends React.Component {
                 createOrder={(data, actions) => this.createOrder(data, actions)}
                 onApprove={(data, actions) => this.onApprove(data, actions)}
             />
-            );
+        );
     }
 }
 
