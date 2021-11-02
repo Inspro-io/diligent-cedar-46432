@@ -618,6 +618,7 @@ models:
         hidden: true
       - name: paypal form
         type: string
+        label: Show paypal form
   features_section:
     type: object
     label: Features section
