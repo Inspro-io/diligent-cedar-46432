@@ -25,8 +25,6 @@ export default class Paypal extends React.Component {
     }
 
     render() {
-        let page = _.get(this.props, 'page', null);
-        let menu = _.get(this.props, 'header_menu', null);
         return (
             <ul className="menu flex-md items-md-center">
             {_.map(menu, (item, item_idx) => {
