@@ -616,6 +616,8 @@ models:
         description: The type of the object
         const: hero_section
         hidden: true
+      - name: ''
+        type: string
   features_section:
     type: object
     label: Features section
