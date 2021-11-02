@@ -1738,3 +1738,6 @@ models:
   paypal:
     type: object
     label: paypal
+    fields:
+      - name: ''
+        type: string
