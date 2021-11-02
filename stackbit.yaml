@@ -619,6 +619,7 @@ models:
       - name: Show Paypal Form
         type: boolean
         label: Show paypal form
+        default: false
   features_section:
     type: object
     label: Features section
