@@ -1579,8 +1579,6 @@ models:
         description: >-
           Add padding (space) around the image. Used only when "Enable cards" is
           set to true
-      - name: ''
-        type: string
   form_field:
     type: object
     label: Form field
