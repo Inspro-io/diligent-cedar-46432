@@ -11,9 +11,9 @@ export default class Paypal extends React.Component {
         return actions.order.create({
         purchase_units: [
             {
-            amount: {
-                value: "0.01",
-            },
+                amount: {
+                    value: "0.01",
+                },
             },
         ],
         });
