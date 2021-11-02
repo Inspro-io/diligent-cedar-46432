@@ -1742,3 +1742,4 @@ models:
       - name: Paypal
         type: string
         label: paypal
+    labelField: Paypal
