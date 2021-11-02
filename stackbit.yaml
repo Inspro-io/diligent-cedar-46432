@@ -1741,4 +1741,4 @@ models:
     fields:
       - name: Paypal
         type: string
-        label: ''
+        label: paypal
