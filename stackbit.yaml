@@ -616,7 +616,7 @@ models:
         description: The type of the object
         const: hero_section
         hidden: true
-      - name: paypal form
+      - name: Show Paypal Form
         type: string
         label: Show paypal form
   features_section:
