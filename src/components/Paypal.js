@@ -4,6 +4,8 @@ import _ from 'lodash';
 import {classNames} from '../utils';
 import Action from './Action';
 
+const PayPalButton = paypal.Buttons.driver("react", { React, ReactDOM });
+
 export default class Paypal extends React.Component {
     render() {
         let page = _.get(this.props, 'page', null);
