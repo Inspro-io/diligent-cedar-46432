@@ -26,19 +26,11 @@ export default class Paypal extends React.Component {
 
     render() {
         return (
-            <ul className="menu flex-md items-md-center">
-            {_.map(menu, (item, item_idx) => {
-                let page_url = _.trim(_.get(page, 'url', null), '/');
-                let item_url = _.trim(_.get(item, 'url', null), '/');
-                let item_style = _.get(item, 'style', null) || 'link';
-                return (
-                	<li key={item_idx} className={classNames('menu__item', 'ml-md-3', {'is-active': (page_url === item_url) && (item_style === 'link'), 'menu__item-btn': item_style !== 'link'})}>
-                		<Action {...this.props} action={item} />
-                	</li>
-                )
-            })}
-            </ul>
-        );
+      <PayPalButton
+        createOrder={(data, actions) => this.createOrder(data, actions)}
+        onApprove={(data, actions) => this.onApprove(data, actions)}
+      />
+    );
     }
 }
 
