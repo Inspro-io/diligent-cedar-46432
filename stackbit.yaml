@@ -610,16 +610,16 @@ models:
           - no-repeat
         default: no-repeat
         description: Repeat the image to cover the whole area
+      - name: paypal_form
+        type: boolean
+        label: Show paypal form
+        default: false
       - type: string
         name: type
         label: Object Type
         description: The type of the object
         const: hero_section
         hidden: true
-      - name: paypal_form
-        type: boolean
-        label: Show paypal form
-        default: false
   features_section:
     type: object
     label: Features section
